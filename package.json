@@ -1,0 +1,19 @@
+{
+  "name": "cis550-project",
+  "version": "1.0.0",
+  "description": "project. using node for amazon api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleylim419/cis550-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleylim419/cis550-project/issues"
+  },
+  "homepage": "https://github.com/ashleylim419/cis550-project#readme"
+}
