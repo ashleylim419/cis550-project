@@ -3,8 +3,8 @@ var amazon = require('amazon-product-api');
 var fs = require('fs');
 
 var client = amazon.createClient({
-  awsId: "AKIAJYQEGPADE3EZJX2A",
-  awsSecret: "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",
+  awsId: "secret",
+  awsSecret: "secret",
   awsTag: "alexisherrera-20"
 });
 
@@ -15,8 +15,9 @@ for (var i = 1; i <= 5; i++) {
   client.itemSearch({
     keywords: 'foundation',
     searchIndex: 'Beauty',
-    responseGroup: 'ItemAttributes,Images',
-    itemPage: "" + i + ""
+    responseGroup: 'ItemAttributes,Images,Offers,Reviews',
+    itemPage: "" + i + "",
+    includeReviewsSummary: 'True'
   }, function(err, results, response) {
     if (err) {
       //console.log(util.inspect(err, false, null));
@@ -25,6 +26,7 @@ for (var i = 1; i <= 5; i++) {
       //iterate through each result
       for (var j = 0; j < results.length; j++) {
         var item = {};
+        item.price = results[j].OfferSummary[0].LowestNewPrice[0].FormattedPrice[0];
         item.url = results[j].DetailPageURL
         item.brand = results[j].ItemAttributes[0].Brand
         item.manufacturer = results[j].ItemAttributes[0].Manufacturer
@@ -32,6 +34,7 @@ for (var i = 1; i <= 5; i++) {
         item.title = results[j].ItemAttributes[0].Title
         item.features = results[j].ItemAttributes[0].Feature
         item.imageLink = results[j].MediumImage[0].URL
+        //console.log(util.inspect(results[j], false, null))
         data.push(item)
       }
 

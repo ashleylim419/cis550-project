@@ -1,5 +1,6 @@
 [{
-  "url": ["https://www.amazon.com/Neutrogena-Oil-Free-Daily-Scrub-Salicylic/dp/B000NWDSAE?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000NWDSAE"],
+  "price": "$5.22",
+  "url": ["https://www.amazon.com/Neutrogena-Oil-Free-Daily-Scrub-Salicylic/dp/B000NWDSAE?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000NWDSAE"],
   "brand": ["Neutrogena"],
   "manufacturer": ["Neutrogena"],
   "model": ["70501028209"],
@@ -7,23 +8,16 @@
   "features": ["Cleanses and exfoliates", "Salicylic acid acne medicine", "Treats and helps prevent acne", "Unclogs pores and leaves skin feeling clean", "Micro-Clear technology shown to boost delivery of acne medicine"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41FuF8m5JPL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Clean-Clear-Essentials-Foaming-Cleanser/dp/B008IEUERE?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008IEUERE"],
-  "brand": ["Clean & Clear"],
-  "manufacturer": ["Clean&Clear"],
-  "model": ["381371153497"],
-  "title": ["Clean & Clear Essentials Foaming Facial Cleanser, 8 Fl. Oz"],
-  "features": ["8-fluid ounce bottle of foaming facial cleanser", "Gently removes dirt, oil, and makeup to help skin stay clean and healthy", "Cleanser leaves skin clean and refreshed", "Rich cleansing lather won't over-dry skin", "Recommended for everyday facial cleansing", "8 fluid ounce bottle", "Washes away problem-causing dirt, oil & make-up without over-drying", "Leaves skin clean and refreshed", "Oil-Free"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41S%2Bsk2bTWL._SL160_.jpg"]
+  "price": "$20.97",
+  "url": ["https://www.amazon.com/Vitamin-Facial-Cleanser-Ingredients-InstaNatural/dp/B00VMYKCL0?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00VMYKCL0"],
+  "brand": ["InstaNatural"],
+  "manufacturer": ["InstaNatural"],
+  "title": ["Vitamin C Facial Cleanser - Anti Aging, Breakout & Wrinkle Reducing Face Wash for Clear & Reduced Pores - With Organic & Natural Ingredients - For Oily, Dry & Sensitive Skin - by InstaNatural - 6.7 OZ"],
+  "features": ["ANTI-AGING CLEANSING REGIMEN - InstaNatural's Vitamin C Cleanser offers the best way to get advanced cleansing action with the most effective, natural and pure ingredients for an ageless look, including Organic Chamomile, Green Tea, Coconut Water and Aloe. These ingredients work together to rejuvenate, restore and refine the skin for ultimate radiance, wrinkle-free beauty and a healthy complexion. Day or night, just wash & rinse! The most invigorating part of your routine.", "EXTREME ANTIOXIDANT BENEFITS - With a potent amount of antioxidants from Vitamin C, this cleanser is the perfect solution for both men and women looking to achieve more youthful and brighter looking skin fast with a simple addition to their skincare regimen. Of the many functions InstaNatural's Vitamin C Cleanser serves, the most prominent is its ability to both help prevent and diminish the appearance of signs of aging by promoting collagen production for firmer skin.", "BLEMISH DEFENSE - InstaNatural's Vitamin C Cleanser works wonders when it comes to clearing away clogged pores and reducing and preventing whiteheads and blackheads from forming, but it helps control breakouts and other skin imperfections and blemishes too. For example, this cleanser contains ingredients to help correct and reduce sun spots, discoloration, dullness and free radical damage that can come from prolonged sun exposure.", "BRIGHTENING ACTION FOR BALANCED COMPLEXION - Penetrating deep to deliver results, this product also keeps the skin hydrated by using a combination of soothing oils and moisturizers to leave the face with a boost of hydration and a clean feel. Everyone with dry skin, oily skin, sensitive skin or even combination, will see some type of benefit they've been looking for with this professional-grade formula.", "EXFOLIATING AGE REVERSAL ESSENTIALS - Boosters in this cleanser help to wash away dulling skin cells, fading the appearance of lines, wrinkles or fine blemishes. With nourishing ingredients to provide daily defense, you'll see youth restored to the skin anywhere on your body in no time. This everyday acne wash is a gentle foaming unscented cleanser that will tighten and exfoliate your pores, while still hydrating and leaving your skin feeling fresh. Your foaming lather for every problem pore."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41OYEWJALZL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Philosophy-Purity-Simple-One-Step-Cleanser/dp/B00021C1LI?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00021C1LI"],
-  "brand": ["Philosophy"],
-  "manufacturer": ["Philosophy"],
-  "model": ["604079016162"],
-  "title": ["Philosophy Purity Made Simple One-Step Facial Cleanser, 16 Ounces"],
-  "features": ["Natural oil extracts help condition skin", "Fragrace-free formula"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41ywWXhQdIL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Neutrogena-Deep-Clean-Cream-Cleanser/dp/B000052ZB5?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000052ZB5"],
+  "price": "$4.22",
+  "url": ["https://www.amazon.com/Neutrogena-Deep-Clean-Cream-Cleanser/dp/B000052ZB5?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000052ZB5"],
   "brand": ["Neutrogena"],
   "manufacturer": ["Neutrogena"],
   "model": ["070501060957"],
@@ -31,7 +25,8 @@
   "features": ["7-fluid ounce tube of cream facial cleanser", "Deep clean to remove dirt, oil, and makeup", "Remove dead surface skin cells for softer, smoother skin", "Leave skin feeling soft and fresh", "Beta hydroxy acid penetrates deep into pores"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41r9g3qcIGL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Alba-Botanica-Clean-Foaming-Cleanser/dp/B00BGVN56S?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00BGVN56S"],
+  "price": "$4.19",
+  "url": ["https://www.amazon.com/Alba-Botanica-Clean-Foaming-Cleanser/dp/B00BGVN56S?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00BGVN56S"],
   "brand": ["Alba Botanica"],
   "manufacturer": ["Quidsi"],
   "model": ["AL00782"],
@@ -39,21 +34,41 @@
   "features": ["Extracts deep impurities and removes stubborn pore congestion for vibrant skin free of excess oil using a unique combination of fruit acids, salicylic acid and willow bark extract", "Rich, lathering, oil-free cream for sensitive skin", "100 percent vegetarian ingredients", "No animal testing", "NO: parabens, phthalates, or synthetic fragrances"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31MYOs0hC2L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Aveeno-Absolutely-Nourishing-Anti-Aging-Cleanser/dp/B016OIV5HS?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B016OIV5HS"],
+  "price": "$6.99",
+  "url": ["https://www.amazon.com/Aveeno-Absolutely-Nourishing-Anti-Aging-Cleanser/dp/B016OIV5HS?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B016OIV5HS"],
   "brand": ["Aveeno"],
   "manufacturer": ["Aveeno"],
   "title": ["Aveeno Absolutely Ageless Facial Nourishing Anti-Aging Cleanser, 5.2 Fl. Oz"],
   "features": ["5.2-fluid ounces of nourishing anti-aging facial cleanser", "Cleanses and preserves moisture", "For healthier, younger-looking skin", "Removes 99% of skin-aging impurities", "Dermatologist-tested"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31ri4XSWUgL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Kaiame-Naturals-Anti-Aging-Exfoliates-Moisturizes/dp/B01MRVHFIA?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MRVHFIA"],
+  "price": "$19.99",
+  "url": ["https://www.amazon.com/Philosophy-Purity-Simple-One-Step-Cleanser/dp/B00021C1NG?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00021C1NG"],
+  "brand": ["Philosophy"],
+  "manufacturer": ["Philosophy"],
+  "model": ["S7B2RM17.5000-FN"],
+  "title": ["Philosophy Purity Made Simple One-Step Facial Cleanser, 8 Ounce"],
+  "features": ["Deep cleans pores and eliminates makeup build-up", "Natural oil extracts help condition skin", "Fragrace-free formula"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41ph5Kxfv7L._SL160_.jpg"]
+}, {
+  "price": "$15.49",
+  "url": ["https://www.amazon.com/OZNaturals-Vitamin-Facial-Cleanser-Effective/dp/B01MVAQBKI?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MVAQBKI"],
+  "brand": ["OZ Naturals"],
+  "manufacturer": ["OZNaturals"],
+  "title": ["OZNaturals Vitamin C Facial Cleanser - The Most Effective Anti Aging Face Wash + The Natural Skin Care Solution For Clean Pores And A Healthy, Radiant Glow. 98% Natural, 4 oz. tube"],
+  "features": ["LOOKING FOR A FACE WASH THAT truly works? This antioxidant rich cleanser contains hyaluronic acid, rose hip oil, goji berry, vitamin E and our super potent form of Vitamin C, making it one of the most effective natural facial cleansers available.", "COLD PROCESSED SKINCARE is better for your skin and provides a much more natural formulation than other so-called natural skincare brands. OZ Naturals Cold processed skincare is purer, cleaner and more efficacious for your skin.", "GUARANTEED TO WORK OR YOUR MONEY BACK - We're confident you'll love OZNaturals products. However, if within 30 days you're not 100% satisfied with your purchase, we'll provide you with a full refund, no questions asked.", "PATENTED BIOPRESERVE COMPLEX eliminates the need for traditional, harmful preservatives like Phenoxyethanol or Sodium Benzoate. Unlike 99% of other skincare brands, OZ Naturals formulas will never contain these harmful preservatives.", "THIS VITAMIN C CLEANSER HELPS deep clean pores without stripping skin. A highly effective anti aging cleanser helps to reduce blemishes, refine skin texture and reduce the appearance of fine lines and wrinkles."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/411%2Bd1QHycL._SL160_.jpg"]
+}, {
+  "price": "$16.97",
+  "url": ["https://www.amazon.com/Kaiame-Naturals-Anti-Aging-Exfoliates-Moisturizes/dp/B01MRVHFIA?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01MRVHFIA"],
   "brand": ["Kaiame Naturals"],
   "manufacturer": ["Naturally Sourced"],
   "title": ["Kaiame Naturals Gentle Facial Cleanser for Women and Men | 6 oz | All Natural and Organic | For All Skin Types | Anti-Aging | Exfoliates and Moisturizes"],
   "features": ["➢ANTI-AGING FACIAL CLEANSER - Kaiame Naturals' Refresh Gentle Facial Cleanser contains natural and organic ingredients that have been proven to fight the signs of aging for both women and men. These ingredients work together to keep your skin looking radiant and healthy!", "➢ ANTIOXIDANT BENEFITS - Our natural face wash contains a plethora of antioxidants to help protect the skin from environmental stressers. Promotes collagen production for firmer, more youthful looking skin.", "➢ GREAT FOR ALL SKIN TYPES - Excellent for sensitive, dry, oily, combination and acne-prone skin. Helps control inflammation and redness. Contains ingredients that help control breakouts and blemishes.", "➢ MOISTURIZES WITHOUT CLOGGING PORES - Enriched with shea buter and certified organic extracts of chamomile, aloe vera, and olive leaf extracts for added moisturizing benefits.", "➢ EXFOLIATES FOR YOUNGER LOOKING SKIN - Gently exfoliates dead skin cells and removes excess oil and impurities from skin, leaving the skin smooth, clean, refreshed, and healthy looking."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51P5aye%2B8RL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Aveeno-Ultra-Calming-Foaming-Cleanser-Sensitive/dp/B002HQKR44?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002HQKR44"],
+  "price": "$5.68",
+  "url": ["https://www.amazon.com/Aveeno-Ultra-Calming-Foaming-Cleanser-Sensitive/dp/B002HQKR44?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002HQKR44"],
   "brand": ["Aveeno"],
   "manufacturer": ["Aveeno"],
   "model": ["J&J873323"],
@@ -61,22 +76,17 @@
   "features": ["6-fluid ounce bottle of foaming cleanser", "Gently cleanses and softens", "For dry, sensitive skin", "Natural Calming Feverfew extract", "Fragrance-free, soap-free, hypoallergenic"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31UyyPJFGUL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Natural-Activated-Charcoal-Facial-Cleanser/dp/B06WW147HL?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06WW147HL"],
-  "brand": ["CHIC REPUBLIC"],
-  "manufacturer": ["CHIC REPUBLIC"],
-  "title": ["All Natural Activated Charcoal Facial Cleanser - Organic Daily Acne Skincare Face Exfoliating for Smooth Skin, Pore Minimizing, Best Anti Aging Skin Rejuvenation with Aloe Vera Gel, Coconut Oil"],
-  "features": ["ACTIVATED CHARCOAL CLEANSER FOR SKIN DETOX: The natural, deep cleansing activated charcoal removes toxins by drawing out and trapping impurities, releasing clogged pores to breathe life into your skin again. It also works as natural exfoliator to remove dead skin cells, with antimicrobial properties that help prevent skin infections.", "ANTIOXIDANT RICH TRIPLE TEA EXTRACT: The triad of calming Rooibos Tea, White Tea, and Green Tea Extract, merges into the perfect combination to work as an antioxidant remedy, defending skin from environmental factors for healthier, supple skin.", "NATURAL SKIN CARE WITH ANTI AGING VITAMINS: Shield your skin from irritants and inflammation with this enriched gentle face wash by locking in Vitamin C and Vitamin B5 to build a barrier layer that promotes healing and protection.", "MOISTURISING AND REVITALIZING OIL EXTRACTS: Gently hydrates and refreshes the skin using natural ingredients like coconut oil, orange peel oil and aloe vera gel extracts to provide nutrients that balance the skin.", "100% NATURAL, MADE IN USA SKINCARE PRODUCT: Paraben free, cruelty-free, and is hypoallergenic, this charcoal facial cleanser is suitable for all skin types, and is safe for sensitive skin. Your new secret weapon for fresh, clear skin. Suitable for Women and Men."],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/412vuFFvEUL._SL160_.jpg"]
+  "price": "$6.96",
+  "url": ["https://www.amazon.com/Face-Shop-Water-Bright-Cleansing/dp/B00FJ2LU2Q?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00FJ2LU2Q"],
+  "brand": ["The Face Shop"],
+  "manufacturer": ["MarginMart, Inc."],
+  "model": ["FC22-F"],
+  "title": ["The Face Shop Rice Water Bright Cleansing Foam, 5 Ounce"],
+  "features": ["Moisturizing, brightening, and detoxifying cleansing foam made with rice water and moringa oil", "Its creamy and cushiony texture eases handling and moisturizing ingredients leave skin feeling hydrated after cleansing by minimizing moisture loss", "Moringa oil and soapwort", "A moisturizing and brightening cleansing line using quality rice water"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41YO1trAN7L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Himalaya-Turmeric-Natural-Cleanser-Prone/dp/B0028QXB6E?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0028QXB6E"],
-  "brand": ["Himalaya Herbal Healthcare"],
-  "manufacturer": ["Himalaya USA"],
-  "model": ["20011"],
-  "title": ["Himalaya Neem & Turmeric Natural Face Wash & Cleanser for Oily and Acne Prone Skin, 5.07 Oz/150 ml"],
-  "features": ["Your organic, soap-free choice for clean skin in a daily natural face wash", "Neem & Turmeric Face Wash purifies for fresh, radiant and clear skin", "Specially designed for oily and mild-acne prone skin. Does not dry skin.", "Natural Vitamin E protects your skin and leaves you feeling soft and moisturized after cleansing", "Get a face wash free from SLS, gluten and phthalates with no artificial colors or animal testing"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41HK78bVxsL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/CeraVe-Foaming-Facial-Cleanser-Washing/dp/B003YMJJSK?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B003YMJJSK"],
+  "price": "$9.40",
+  "url": ["https://www.amazon.com/CeraVe-Foaming-Facial-Cleanser-Washing/dp/B003YMJJSK?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B003YMJJSK"],
   "brand": ["CeraVe"],
   "manufacturer": ["Atlas Supply Chain Consulting Services"],
   "model": ["301871368122"],
@@ -84,7 +94,8 @@
   "features": ["Unique formula with three essential ceramides (1, 3, 6-II) that cleanses and removes oil without disrupting the skincare barrier", "Formulated with hyaluronic acid to help retain skin's natural moisture and niacinamide to help calm skin.", "Foaming action gently refreshes", "Fragrance free, non-comedogenic, non-drying and non-irritating", "Ideal for normal to oily skin."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41qOYpE7jyL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Clean-Clear-Night-Cleanser-2-Pack/dp/B00JFV5X3E?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00JFV5X3E"],
+  "price": "$8.97",
+  "url": ["https://www.amazon.com/Clean-Clear-Night-Cleanser-2-Pack/dp/B00JFV5X3E?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00JFV5X3E"],
   "brand": ["Clean & Clear"],
   "manufacturer": ["Clean & Clear"],
   "model": ["381371161362"],
@@ -92,7 +103,8 @@
   "features": ["Day and night liquid facial cleansers", "Clean skin without over-drying it", "Clean & Clear Morning Burst Facial Cleanser removes dirt, oil, and impurities that build up overnight", "Contains Bursting Beads that burst with energy and vitamins", "Invigorating citrus fragrance helps wake you up"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51MB7LxxxbL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/ArtNaturals-Clarifying-Cleansing-Exfoliation-Blackheads/dp/B01E9AGDEI?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01E9AGDEI"],
+  "price": "$8.95",
+  "url": ["https://www.amazon.com/ArtNaturals-Clarifying-Cleansing-Exfoliation-Blackheads/dp/B01E9AGDEI?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01E9AGDEI"],
   "brand": ["ArtNaturals"],
   "manufacturer": ["ArtNaturals"],
   "model": ["ANMA-0803-VE"],
@@ -100,7 +112,8 @@
   "features": ["Aids the reduction of oily and acne prone skin while cleansing and nourishing", "Natural extracts of aloe and cucumber soothes and moisturizes dry skin", "Penetrates deep into skin to cleanse pores of dirt and oils", "Infused with natural ingredients"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41LDkmthGXL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Aveeno-Positively-Radiant-Brightening-Exfoliating/dp/B0000632EN?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0000632EN"],
+  "price": "$5.81",
+  "url": ["https://www.amazon.com/Aveeno-Positively-Radiant-Brightening-Exfoliating/dp/B0000632EN?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0000632EN"],
   "brand": ["Aveeno"],
   "manufacturer": ["Aveeno"],
   "model": ["38137001081"],
@@ -108,7 +121,8 @@
   "features": ["5-ounce tube of facial scrub", "Face exfoliator helps improve skin tone, texture, and clarity", "To reveal brighter, more radiant looking skin", "Moisture-rich natural soy extract", "Naturally derived exfoliating granules for gentle skin exfoliation"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41P7GtA3E5L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Cetaphil-Gentle-Cleanser-16-Ounce-Bottles/dp/B001ET76EY?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001ET76EY"],
+  "price": "$14.91",
+  "url": ["https://www.amazon.com/Cetaphil-Gentle-Cleanser-16-Ounce-Bottles/dp/B001ET76EY?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001ET76EY"],
   "brand": ["Cetaphil"],
   "manufacturer": ["Cetaphil"],
   "model": ["302993921165"],
@@ -116,35 +130,41 @@
   "features": ["Moisturizes as it cleanses", "Rinses off easily, will not strip the skin of natural oils", "Ideal for skin with conditions such as: Psoriasis, Rosacea, Acne, Diaper rash, Eczema, and dry skin", "Gentle enough for children, teens, and adults", "Cetaphil is manufactured by Galderma Laboratories, a major benefactor of the Dermatology Foundation, helping to fund critical dermatology research"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41C%2BtPjCuWL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Glycolic-Acid-Exfoliating-Cleanser-Anti-Aging/dp/B013PU1RQM?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B013PU1RQM"],
+  "price": "$18.98",
+  "url": ["https://www.amazon.com/Glycolic-Acid-Exfoliating-Cleanser-Anti-Aging/dp/B013PU1RQM?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B013PU1RQM"],
   "brand": ["Body Merry"],
   "manufacturer": ["Body Merry"],
   "title": ["Glycolic Acid Exfoliating Cleanser - Anti-Aging + Acne Face Wash w AHA For Wrinkles, Lines & Spots Reduction - Natural Blend of Best Rosehip & Tea Tree Oils + Jojoba Beads For a Deep Clean…"],
   "features": ["A great skincare routine begins with a great face wash to help your other beauty products work more effectively. Add Body Merry's ample 6 OZ SIZE Glycolic Acid Exfoliating Cleanser to your routine and give your skin the freshness it deserves. The formula contains 2.5% GLYCOLIC ACID + WILLOW BARK + JOJOBA BEADS, which help to alleviate clogged pores and slough away dead skin, dirt and oil build up.", "Instead of using a basic face wash that cleans only surface dirt, this cleanser uses potent ingredients for a DEEP CLEAN FEELING that can't be matched. Kojic Acid + Olive Oil + Rosehip Oil + Jojoba Oil + Tea Tree Oils penetrate deep into your pores to get rid of excess grime while nourishing and smoothing your skin for a soft and supple look.", "Our facial cleanser uses robust ingredients to not only clean your skin but give your complexion LASTING BENEFITS. This gentle wash works to effectively reduce age spots, dark spots, sun spots and other forms of discoloration while helping with acne, acne scars and premature aging.", "This facial cleanser is a great way to start or end your day to help BRIGHTEN A DULL-LOOKING COMPLEXION. For a complete skincare routine, pair it with a toner, serum and moisturizer to restore and rejuvenate your face and neck.", "Body Merry offers a 90-day MANUFACTURER GUARANTEE on all its products (no need to return the bottle). Our products are CRUELTY FREE and are manufactured in the USA."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41LxPu1gcWL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Vitamin-Facial-Cleanser-Ingredients-InstaNatural/dp/B00VMYKCL0?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00VMYKCL0"],
-  "brand": ["InstaNatural"],
-  "manufacturer": ["InstaNatural"],
-  "title": ["Vitamin C Facial Cleanser - Anti Aging, Breakout & Wrinkle Reducing Face Wash for Clear & Reduced Pores - With Organic & Natural Ingredients - For Oily, Dry & Sensitive Skin - by InstaNatural - 6.7 OZ"],
-  "features": ["ANTI-AGING CLEANSING REGIMEN - InstaNatural's Vitamin C Cleanser offers the best way to get advanced cleansing action with the most effective, natural and pure ingredients for an ageless look, including Organic Chamomile, Green Tea, Coconut Water and Aloe. These ingredients work together to rejuvenate, restore and refine the skin for ultimate radiance, wrinkle-free beauty and a healthy complexion. Day or night, just wash & rinse! The most invigorating part of your routine.", "EXTREME ANTIOXIDANT BENEFITS - With a potent amount of antioxidants from Vitamin C, this cleanser is the perfect solution for both men and women looking to achieve more youthful and brighter looking skin fast with a simple addition to their skincare regimen. Of the many functions InstaNatural's Vitamin C Cleanser serves, the most prominent is its ability to both help prevent and diminish the appearance of signs of aging by promoting collagen production for firmer skin.", "BLEMISH DEFENSE - InstaNatural's Vitamin C Cleanser works wonders when it comes to clearing away clogged pores and reducing and preventing whiteheads and blackheads from forming, but it helps control breakouts and other skin imperfections and blemishes too. For example, this cleanser contains ingredients to help correct and reduce sun spots, discoloration, dullness and free radical damage that can come from prolonged sun exposure.", "BRIGHTENING ACTION FOR BALANCED COMPLEXION - Penetrating deep to deliver results, this product also keeps the skin hydrated by using a combination of soothing oils and moisturizers to leave the face with a boost of hydration and a clean feel. Everyone with dry skin, oily skin, sensitive skin or even combination, will see some type of benefit they've been looking for with this professional-grade formula.", "EXFOLIATING AGE REVERSAL ESSENTIALS - Boosters in this cleanser help to wash away dulling skin cells, fading the appearance of lines, wrinkles or fine blemishes. With nourishing ingredients to provide daily defense, you'll see youth restored to the skin anywhere on your body in no time. This everyday acne wash is a gentle foaming unscented cleanser that will tighten and exfoliate your pores, while still hydrating and leaving your skin feeling fresh. Your foaming lather for every problem pore."],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41OYEWJALZL._SL160_.jpg"]
+  "price": "$3.97",
+  "url": ["https://www.amazon.com/Clean-Clear-Essentials-Foaming-Cleanser/dp/B008IEUERE?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008IEUERE"],
+  "brand": ["Clean & Clear"],
+  "manufacturer": ["Clean&Clear"],
+  "model": ["381371153497"],
+  "title": ["Clean & Clear Essentials Foaming Facial Cleanser, 8 Fl. Oz"],
+  "features": ["8-fluid ounce bottle of foaming facial cleanser", "Gently removes dirt, oil, and makeup to help skin stay clean and healthy", "Cleanser leaves skin clean and refreshed", "Rich cleansing lather won't over-dry skin", "Recommended for everyday facial cleansing", "8 fluid ounce bottle", "Washes away problem-causing dirt, oil & make-up without over-drying", "Leaves skin clean and refreshed", "Oil-Free"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41S%2Bsk2bTWL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Alaffia-EveryDay-Coconut-Cleansing-Ounces/dp/B00HUDTVP0?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HUDTVP0"],
-  "brand": ["Alaffia"],
-  "manufacturer": ["Alaffia"],
-  "title": ["Alaffia - EveryDay Coconut - Cleansing Face Wash, 12 Ounces (FFP)"],
-  "features": ["EVERYDAY USE: Ideal for all skin types, removes makeup and impurities leaving skin fresh", "VIRGIN COCONUT OIL: Provides gentle cleansing while maintaining skin's moisture level", "GIVE BACK: Your Alaffia purchase funds empowerment projects helping to break the cycle of poverty", "FAIR TRADE: Alaffia has committed to sourcing 100% Certified Fair Trade Ingredients", "PURITY PROMISE: Gluten free and vegan, without parabens, sulfates, or dyes"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/512dVxzKY2L._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Biore-Charcoal-Acne-Cleanser-Ounce/dp/B01NAH0EDX?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NAH0EDX"],
+  "price": "$5.99",
+  "url": ["https://www.amazon.com/Biore-Charcoal-Acne-Cleanser-Ounce/dp/B01NAH0EDX?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NAH0EDX"],
   "brand": ["Bioré"],
   "manufacturer": ["KAO Brands"],
   "title": ["Biore Charcoal Acne Cleanser, 6.77 Ounce"],
   "features": ["Acne solution for oily skin", "Deep cleans, penetrates pores and absorbs oil to help stop breakouts.", "Daily Cleanser, instantly absorbs oil.", "1% Salicylic Acid", "Dermatologist Tested"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41vOgp7da7L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Neutrogena-Healthy-Boosters-Facial-Cleanser/dp/B00NR1YWC6?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NR1YWC6"],
+  "price": "$12.99",
+  "url": ["https://www.amazon.com/Alaffia-EveryDay-Coconut-Cleansing-Ounces/dp/B00HUDTVP0?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HUDTVP0"],
+  "brand": ["Alaffia"],
+  "manufacturer": ["Alaffia"],
+  "title": ["Alaffia - EveryDay Coconut - Cleansing Face Wash, 12 Ounces (FFP)"],
+  "features": ["EVERYDAY USE: Ideal for all skin types, removes makeup and impurities leaving skin fresh", "VIRGIN COCONUT OIL: Provides gentle cleansing while maintaining skin's moisture level", "GIVE BACK: Your Alaffia purchase funds empowerment projects helping to break the cycle of poverty", "FAIR TRADE: Alaffia has committed to sourcing 100% Certified Fair Trade Ingredients", "PURITY PROMISE: Gluten free and vegan, without parabens, sulfates, or dyes"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/512dVxzKY2L._SL160_.jpg"]
+}, {
+  "price": "$7.12",
+  "url": ["https://www.amazon.com/Neutrogena-Healthy-Boosters-Facial-Cleanser/dp/B00NR1YWC6?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00NR1YWC6"],
   "brand": ["Neutrogena"],
   "manufacturer": ["Neutrogena"],
   "title": ["Neutrogena Healthy Skin Boosters Facial Cleanser, 9 Fl. Oz"],

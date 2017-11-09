@@ -1,120 +1,19 @@
 [{
-  "url": ["https://www.amazon.com/Neutrogena-Healthy-Liquid-Foundation-Spectrum/dp/B001MS7HGE?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001MS7HGE"],
-  "brand": ["Neutrogena"],
-  "manufacturer": ["Neutrogena Cosmetics"],
-  "title": ["Neutrogena Healthy Skin Liquid Makeup Foundation, Broad Spectrum Spf 20, 40 Nude, 1 Oz."],
-  "features": ["1-ounce bottle of liquid foundation", "Helps provides beautiful, flawless coverage", "Lightweight makeup glides on smoothly", "Helps visibly improve skin's luminosity, tone, and texture", "Contains Broad Spectrum SPF 20 sunscreen with titanium dioxide"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41aenVz8C7L._SL160_.jpg"]
+  "price": "$14.64",
+  "url": ["https://www.amazon.com/Dermacol-Make-up-Cover-Waterproof-Hypoallergenic/dp/B07417JDGQ?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07417JDGQ"],
+  "title": ["Dermacol Make-up Cover - Waterproof Hypoallergenic Foundation 30g 100% Original Guaranteed from Authorized Stockists (208)"],
+  "features": ["There are many unauthentic Dermacol foundations being sold online, we have included instructions below in the description on how to check if you have received the original stock.", "It contains 50 percent pigments, which makes it a weapon against skin imperfections. DERMACOL MAKE-UP COVER provides PERFECT COVERAGE even in thin layers and is the perfect corrector for dark under-eye, unpleasant spots and skin blemishes", "It completely covers acne, loss of pigmentation, post surgical bruising, tattoos etc. It may be used on the entire face or body for color correction, darkening or lightening the skin tones, and ensuring ideal balance.", "Waterproof. Hypoallergenic. For all skin types. SPF 30. No preservative."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/417TJ31qzkL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Instant-Treatment/dp/B002ZTZBV2?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002ZTZBV2"],
-  "brand": ["Maybelline New York"],
-  "manufacturer": ["Maybelline New York"],
-  "model": ["1209IAREF-290"],
-  "title": ["Maybelline New York Instant Age Rewind Eraser Treatment Makeup, Creamy Beige 290, 0.68 Fluid Ounce"],
-  "features": ["Super concentrated formula with goji berry and collagen tightens and improves skin elasticity", "Micro-corrector applicator micro-fills and smoothes imperfections", "SPF 18  helps protect skin from sun damage"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31KGn-DlHzL._SL160_.jpg"]
+  "price": "$4.19",
+  "url": ["https://www.amazon.com/Enjocho-Waterproof-Foundation-Concealer-Highlight/dp/B073RM75QY?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B073RM75QY"],
+  "brand": ["Enjocho"],
+  "manufacturer": ["Enjocho"],
+  "title": ["Skin Care,Enjocho 1PC Dermacol Waterproof High Covering Makeup Natrual Foundation Cream Face Eye Concealer Highlight Contour Pen Stick, Black Box (208#)"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31n9zRB8OVL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Matte-Long-Wear-Free-Foundation/dp/B01C8Z93MU?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01C8Z93MU"],
-  "brand": ["Golden Rose"],
-  "manufacturer": ["Golden Rose"],
-  "title": ["Matte Long Wear Oil Free Foundation with SPF 15, #04 - Warm Nude"],
-  "features": ["Matte Foundation provides great coverage and matte finish on the skin with its long-lasting and all free formula", "Skin stays perfectly smooth, flawless and matte all day long", "Protects your skin against harmful sunrays with SPF 19", "Available in 10 shades for all skin tones.", "Not tested on animals"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41K4A4%2BoxxL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Paris-Infallible-Pro-Glow-Foundation-Natural/dp/B01DPA6SY8?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01DPA6SY8"],
-  "brand": ["L'Oreal Paris"],
-  "manufacturer": ["L'Oreal Paris Cosmetics"],
-  "title": ["L'Oréal Paris Infallible Pro-Glow Foundation, Natural Buff, 1 fl. oz."],
-  "features": ["Up to 24HR Foundation", "Hydrating Glow, Medium Coverage", "Healthy, Radiant Finish", "The New Pro-Look of Longwear"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41mtFHSfgAL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/COVERGIRL-Outlast-All-Day-Fabulous-Foundation/dp/B0094G3MRY?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0094G3MRY"],
-  "brand": ["COVERGIRL"],
-  "manufacturer": ["CoverGirl"],
-  "model": ["COV-3277"],
-  "title": ["COVERGIRL Outlast All-Day Stay Fabulous 3-in-1 Foundation Classic Ivory, 1 oz"],
-  "features": ["3-in-1 all-day liquid foundation with broad spectrum sunscreen (SPF 20)", "All-day flawless matte coverage", "Available in 13 shades, ranging from light to deep", "All-day coverage that doesn't feel heavy or cakey", "Complete your look with COVERGIRL Outlast -Al-Day Makeup Primer"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/4180pNo%2BYAL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/l-f-Fighting-Foundation-Fluid-Ounce/dp/B00CZ51BCY?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00CZ51BCY"],
-  "brand": ["e.l.f. Cosmetics"],
-  "manufacturer": ["JA Cosmetics"],
-  "title": ["e.l.f. Acne Fighting Foundation, Buff, 1.21 Fluid Ounce"],
-  "features": ["Disguise redness, blemishes and uneven skintone", "Flawless coverage foundation", "Infused with acne fighting key ingredients"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31zNytExaAL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Foundation-Classic/dp/B00112BTH4?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00112BTH4"],
-  "brand": ["Maybelline New York"],
-  "manufacturer": ["Maybelline"],
-  "model": ["50710"],
-  "title": ["Maybelline New York Dream Matte Mousse Foundation, Classic Ivory, 0.64 Ounce"],
-  "features": ["Whipped mousse texture", "Matte perfect coverage", "Weightless, air soft feel"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41WJjS1q5PL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Black-Opal-Color-Foundation-Hazelnut/dp/B00694W0Z4?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00694W0Z4"],
-  "brand": ["Black Opal"],
-  "manufacturer": ["Black Opal"],
-  "model": ["27811010929"],
-  "title": ["Black Opal True Color Stick Foundation, Hazelnut"],
-  "features": ["Hypoallergenic", "Broad spectrum protection", "Crème stick foundation"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41FsyrgzQLL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Classic-Ivory/dp/B00B405D0W?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00B405D0W"],
-  "brand": ["Maybelline New York"],
-  "manufacturer": ["Maybelline New York"],
-  "model": ["150 Classic Ivory"],
-  "title": ["Maybelline New York Instant Age Rewind The Lifter Makeup, Classic Ivory, 1 Fluid Ounce"],
-  "features": ["Lifting foundation with smoothing primer inside", "Formula with peptides firms skin and covers instantly", "Primer smoothens lines and rough texture"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41C8tHsMvGL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Revlon-PhotoReady-Airbrush-Effect-Makeup/dp/B00UIVF1JQ?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00UIVF1JQ"],
-  "brand": ["Revlon"],
-  "manufacturer": ["Revlon Consumer Products Corp."],
-  "model": ["REVCOSC73918013"],
-  "title": ["Revlon PhotoReady Airbrush Effect Makeup,  Ivory"],
-  "features": ["#001 Ivory", "Foundation delivers a poreless, airbrushed look", "Revolutionary formula with light-filtering technology", "Provides medium to full coverage", "SPF 20"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41El%2BliOfFL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Oil-Free-Foundation/dp/B00DRPSQ60?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00DRPSQ60"],
-  "brand": ["Maybelline New York"],
-  "manufacturer": ["Maybelline New York"],
-  "model": ["K1424002"],
-  "title": ["Maybelline New York Fit Me! Oil-Free Stick Foundation, 220 Natural Beige, 0.32 Ounce"],
-  "features": ["Natural coverage that leaves skin fresh, breathing, and natural", "An exclusive translucent base and lightweight pigments", "Allows skin's natural highs and lows to show through"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/311Goq-LVbL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/BS-MALL-Foundation-Brushes-Synthetic-brushes/dp/B01N1F5V7S?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N1F5V7S"],
-  "brand": ["BS-MALL"],
-  "manufacturer": ["BS-MALL"],
-  "title": ["BS-MALL Face Foundation Powder Liquid Cream Oval Makeup Brushes Set Synthetic Makeup brushes(Pack of 6)"],
-  "features": ["Package include 4 blender makeup brushes and 2 Toothbrush Style Makeup brushes", "Super Soft but firm and dense enough to apply makeup.", "silky soft, a professional makeup brush set.", "BS-MALL(TM) Premium Synthetic Kabuki Makeup Brush Set-Amazing Quality & Great Price& high level after-sale service!"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51yDW6GlSuL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Clinique-Spectrum-Correct-Foundation-Chamois/dp/B002SQ4FAA?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002SQ4FAA"],
-  "brand": ["Clinique"],
-  "manufacturer": ["CLINIQUE"],
-  "model": ["0020714324636"],
-  "title": ["Clinique Even Better Makeup Broad Spectrum Spf15 Evens & Correct Foundation, 1 Ounce, 04 Cream Chamois VF-G"],
-  "features": ["Shade: 04 Cream Chamois", "Size: 1 oz/30 ml, full size"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/518y6nPcfPL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Healthy-Luminous-Classic/dp/B008DF54K0?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008DF54K0"],
-  "brand": ["L'Oreal Paris"],
-  "manufacturer": ["L'Oreal Paris Cosmetics"],
-  "model": ["n1-2 neutral"],
-  "title": ["L'Oréal Paris True Match Lumi Healthy Luminous Makeup, N1-2 Soft Ivory/Classic Ivory, 1 fl. oz."],
-  "features": ["Luminous Liquid Makeup", "Instantly Illuminates Skin", "In 1 Month, Skin's Clearer, More Even", "Anti-oxidants Vitamin C plus E"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31KMkjGIJIL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Physicians-Formula-Glowing-Foundation-Medium/dp/B00RGDZJ5A?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00RGDZJ5A"],
-  "brand": ["Physicians Formula"],
-  "manufacturer": ["Physicians Formula"],
-  "model": ["four21-five02-jooi3189"],
-  "title": ["Physicians Formula Nude Wear Glowing Nude Foundation, Light/Medium, 1 Fluid Ounce"],
-  "features": ["Weightless Fluid + Nude Perfection + Luminous Glow", "Airy foundation is formulated with translucent, 100% Perfecting Nude Glow pigments allow skin's natural radiance and color to shine through resulting in a beautiful bare skin effect that feels ultra-soft to the touch", "Hypoallergenic; Paraben Free; Gluten Free; Dermatologist approved; Non-Comedogenic; Fragrance Free; Oil Free", "Instantly evens out skin tone, illuminating and brightening complexion with a lit-from-within-glow, leaving behind the natural perfection of nearly naked skin that lasts all day", "Look perfected without looking made up"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31O8H0fmzlL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/BESTOPE-Professional-Eyeliner-Foundation-Cosmetic/dp/B00HSE4WJG?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HSE4WJG"],
+  "price": "$7.19",
+  "url": ["https://www.amazon.com/BESTOPE-Professional-Eyeliner-Foundation-Cosmetic/dp/B00HSE4WJG?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00HSE4WJG"],
   "brand": ["BESTOPE"],
   "manufacturer": ["Outop"],
   "model": ["Outop8pcs"],
@@ -122,127 +21,77 @@
   "features": ["BESTOPE MAGIC BEAUTY:BESTOPE 8Pcs makeup brush set are designed exclusively by major beauty industry leaders is perfect for both beginners and professional makeup artist.", "SOFT SYNTHETIC FIBERS:These makeup brushes are made of quality natural hair and synthetic fiber, super soft, no hair shedding,no skin hurting,suitable for even the most sensitive skin.", "PROFESSIONAL MAKEUP BRUSHES: These brushes are so smooth its easy to apply any kind of make up you want. powder,foundation,blush,and eyeliner etc.", "BEST WOODEN TEXTURE:The handle of makeup brushes are made of high-end performance alloy, wood material, and soft synthetic,ensured for long time use.", "PORTABLE CARRY:The brushes are very compact and easy to carry. Our makeup brush set will show your natural beauty and leave a flawless finish everywhere."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51PqOvyyztL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/COVERGIRL-Advanced-Radiance-Defying-Foundation/dp/B000MVEA5S?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000MVEA5S"],
-  "brand": ["COVERGIRL"],
-  "manufacturer": ["CoverGirl"],
-  "model": ["CGRMQ8139"],
-  "title": ["COVERGIRL Advanced Radiance Age Defying Foundation Makeup Creamy Natural 120, 1 oz"],
-  "features": ["Liquid foundation restores skin's youthful appearance with 8 hours of continuous moisture", "Reduces the appearance of fine lines and wrinkles", "Available in various shades ranging from light to deep", "A radiant finish", "Complete your look with COVERGIRL Simply Ageless Anti-Aging Foundation Primer"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41VmhZTwnEL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/COVERGIRL-Simply-Ageless-Foundation-Classic/dp/B01ACPW1SG?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01ACPW1SG"],
-  "brand": ["COVERGIRL"],
-  "manufacturer": ["CoverGirl"],
-  "model": ["008100100361"],
-  "title": ["COVERGIRL+Olay Simply Ageless 3-in-1 Liquid Foundation Classic Ivory, 1 oz"],
-  "features": ["Instantly reduces the look of wrinkles, evens skin tone and delivers firming hydration", "The #1 anti-aging foundation now available in a liquid", "Available in various shades ranging from light to tan", "Amazing skin science brought to makeup", "For an effective anti-aging system, use with COVERGIRL Simply Ageless Anti-Aging Foundation Primer"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41g7cUYF%2BzL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Rimmel-Matte-Foundation-Ivory-Fluid/dp/B00GB0IO3I?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00GB0IO3I"],
-  "brand": ["Rimmel"],
-  "manufacturer": ["Rimmel"],
-  "model": ["34788818103"],
-  "title": ["Rimmel Stay Matte Foundation, True Ivory, 1 Fluid Ounce"],
-  "features": ["Feather-light, liquid mousse blends flawlessly for natural-looking, all day shine control", "Silky smooth formula leaves a perfectly matte, baby-soft finish", "Lightweight texture won't feel heavy or greasy"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31pW6wfBugL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Dermacol-Make-up-Cover-Waterproof-Hypoallergenic/dp/B07417JDGQ?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B07417JDGQ"],
-  "brand": ["Dermacol"],
-  "manufacturer": ["Dermacol"],
-  "title": ["Dermacol Make-up Cover - Waterproof Hypoallergenic Foundation 30g 100% Original Guaranteed from Authorized Stockists (208)"],
-  "features": ["There are many unauthentic Dermacol foundations being sold online, we have included instructions below in the description on how to check if you have received the original stock.", "It contains 50 percent pigments, which makes it a weapon against skin imperfections. DERMACOL MAKE-UP COVER provides PERFECT COVERAGE even in thin layers and is the perfect corrector for dark under-eye, unpleasant spots and skin blemishes", "It completely covers acne, loss of pigmentation, post surgical bruising, tattoos etc. It may be used on the entire face or body for color correction, darkening or lightening the skin tones, and ensuring ideal balance.", "Waterproof. Hypoallergenic. For all skin types. SPF 30. No preservative."],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/417TJ31qzkL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Paris-Foundation-209-True-Beige/dp/B00L78EPZU?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00L78EPZU"],
-  "brand": ["L'Oreal Paris"],
-  "manufacturer": ["L'Oreal Paris"],
-  "model": ["209 True Beige"],
-  "title": ["L'oreal Paris Visible Lift Blur Foundation, 209 True Beige, 1.3 Fluid Ounce"],
-  "features": ["Makeup that blurs the look of lines, wrinkles and uneven texture", "Formulated with Opti-Blur Technology", "Suitable for all skin types", "Non-comedogenic", "SPF 18"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/313AermwxfL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Maybelline-Super-Better-Foundation-Natural/dp/B00YJJXJ06?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00YJJXJ06"],
+  "price": "$6.40",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Instant-Treatment/dp/B002ZTZBV2?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002ZTZBV2"],
   "brand": ["Maybelline New York"],
   "manufacturer": ["Maybelline New York"],
-  "title": ["Maybelline Super Stay Better Skin Foundation, Natural Beige, 1 fl. oz."],
-  "features": ["Oil-free, skin-transforming medium to full coverage foundation", "Fade-proof and transfer-proof foundation for better skin", "Longwear foundation with actyl-c and broad spectrum titanium dioxide sunscreen spf 15", "For healthy looking skin, dermatologist tested for safety"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41GczHfGhcL._SL160_.jpg"]
+  "model": ["1209IAREF-290"],
+  "title": ["Maybelline New York Instant Age Rewind Eraser Treatment Makeup, Creamy Beige 290, 0.68 Fluid Ounce"],
+  "features": ["Super concentrated formula with goji berry and collagen tightens and improves skin elasticity", "Micro-corrector applicator micro-fills and smoothes imperfections", "SPF 18  helps protect skin from sun damage"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31KGn-DlHzL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Infallible-Foundation-Classic/dp/B01LY16U26?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LY16U26"],
+  "price": "$26.99",
+  "url": ["https://www.amazon.com/Clinique-Better-Spectrum-Correct-Foundation/dp/B002SPVA9K?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002SPVA9K"],
+  "brand": ["Clinique"],
+  "manufacturer": ["Clinique"],
+  "model": ["0020714324629"],
+  "title": ["Clinique Even Better Makeup Broad Spectrum Spf15 Evens & Correct Foundation, 1 Ounce, Ivory"],
+  "features": ["Even Better Makeup SPF15#03 Ivory(VF-N)-Dry Combination To Combination Oily Skin was launched by the design house of Clinique", "1 Ounce Foundation", "It is recommended for casual wear"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31O5KvMVnSL._SL160_.jpg"]
+}, {
+  "price": "$14.99",
+  "url": ["https://www.amazon.com/Dermacol-Make-up-Cover-Waterproof-Hypoallergenic/dp/B076TNBC7W?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B076TNBC7W"],
+  "brand": ["Dermacol"],
+  "manufacturer": ["Dermacol"],
+  "title": ["Dermacol Make-up Cover - Waterproof Hypoallergenic Foundation 30g 100% Original Guaranteed from Authorized Stockists - BUY 2 AND GET SATIN MAKEUP BASE FREE (207)"],
+  "features": ["There are many unauthentic Dermacol foundations being sold online, we have included instructions below in the description on how to check if you have received the original stock.", "It contains 50 percent pigments, which makes it a weapon against skin imperfections. DERMACOL MAKE-UP COVER provides PERFECT COVERAGE even in thin layers and is the perfect corrector for dark under-eye, unpleasant spots and skin blemishes", "It completely covers acne, loss of pigmentation, post surgical bruising, tattoos etc. It may be used on the entire face or body for color correction, darkening or lightening the skin tones, and ensuring ideal balance."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/517H4FEEGwL._SL160_.jpg"]
+}, {
+  "price": "$4.99",
+  "url": ["https://www.amazon.com/l-f-Fighting-Foundation-Fluid-Ounce/dp/B00CZ51BCY?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00CZ51BCY"],
+  "brand": ["e.l.f. Cosmetics"],
+  "manufacturer": ["JA Cosmetics"],
+  "title": ["e.l.f. Acne Fighting Foundation, Buff, 1.21 Fluid Ounce"],
+  "features": ["Disguise redness, blemishes and uneven skintone", "Flawless coverage foundation", "Infused with acne fighting key ingredients"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31zNytExaAL._SL160_.jpg"]
+}, {
+  "price": "$3.46",
+  "url": ["https://www.amazon.com/Paris-Infallible-Pro-Glow-Foundation-Natural/dp/B01DPA6JXS?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01DPA6JXS"],
   "brand": ["L'Oreal Paris"],
-  "manufacturer": ["L'Oreal Paris Cosmetics"],
-  "title": ["L'Oréal Paris Infallible Total Cover Foundation, Classic Ivory, 1 fl. oz."],
-  "features": ["Up To 24HR Total Coverage", "Weightless Feel", "The New Pro Look of Longwear", "Full Coverage Formula Hides Imperfections and Blemishes"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41VEKyxSw6L._SL160_.jpg"]
+  "manufacturer": ["L'Oreal - Cosmetics"],
+  "model": ["K2140300"],
+  "title": ["L'Oréal Paris Infallible Pro-Glow Foundation, Creamy Natural, 1 fl. oz."],
+  "features": ["Up to 24HR Foundation", "Hydrating Glow, Medium Coverage", "Healthy, Radiant Finish", "The New Pro-Look of Longwear"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31MRlQLmRoL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Foundation-Makeup-Brush-Flat-Kabuki/dp/B018FYTG70?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B018FYTG70"],
-  "brand": ["Lamora"],
-  "manufacturer": ["Lamora Beauty"],
-  "title": ["Foundation Makeup Brush Flat Top Kabuki for Face - Perfect For Blending Liquid, Cream or Flawless Powder Cosmetics - Buffing, Stippling, Concealer - Premium Quality Synthetic Dense Bristles!"],
-  "features": ["✓ This is one of the BEST FOUNDATION MAKEUP BRUSHES you will ever buy. It is so soft, dense, silky and applies foundation so well. This Flat Top Kabuki Brush will exceed your expectations. Your foundation will look flawless and airbrushed. You will be in love with it.", "✓ This PREMIUM QUALITY foundation brush is great for everyday makeup and NO this is not just another \"Amazon\" makeup brush. With this real makeup artist brush your imperfections will disappear and you will be left with a airbrushed finish.", "✓ The Lamora FLAT KABUKI brush is a professional foundation brush that everyone can afford. It comes with high quality synthetic bristles and a black wooden handle. Use this makeup brush as a powder or stippling brush to apply powder, cream and liquid products onto the skin without trapping or absorption of product. It does not soak up excessive amounts of product like other makeup brushes.", "✓ With Lamora Beauty you will achieve not just a SMOOTH and FLAWLESS foundation but also experience an outstanding customer service that guides you through the ordering/shipping process and provides you with awesome beauty tips.", "✓ ORDER NOW and get our peace of mind 30-day \"better than money back\" guarantee. We are here to make YOU happy! 100% Satisfaction Guarantee!"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/316HsL3OaUL._SL160_.jpg"]
+  "price": "$3.00",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Foundation-Classic/dp/B00112BTH4?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00112BTH4"],
+  "brand": ["Maybelline New York"],
+  "manufacturer": ["Maybelline"],
+  "model": ["50710"],
+  "title": ["Maybelline New York Dream Matte Mousse Foundation, Classic Ivory, 0.64 Ounce"],
+  "features": ["Whipped mousse texture", "Matte perfect coverage", "Weightless, air soft feel"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41WJjS1q5PL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Clinique-Superbalanced-Makeup-Spectrum-Foundation/dp/B01LY8KYL4?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LY8KYL4"],
+  "price": "$5.00",
+  "url": ["https://www.amazon.com/Clinique-Superbalanced-Makeup-Spectrum-Foundation/dp/B01LY8KYL4?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LY8KYL4"],
   "brand": ["Clinique"],
   "manufacturer": ["Estee Lauder"],
   "title": ["Clinique Superbalanced Silk Makeup Broad Spectrum SPF15 Foundation - 08 Silk Canvas, Travel Size .5oz/15ml"],
   "features": ["15ml"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41vjz7KCj1L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Palladio-Dual-Foundation-Ivory-Myrrh/dp/B0006O9ZAG?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0006O9ZAG"],
-  "brand": ["Palladio"],
-  "manufacturer": ["Palladio"],
-  "model": ["PALLADIO-224011"],
-  "title": ["Palladio Dual Wet and Dry Foundation, Ivory Myrrh"],
-  "features": ["Made for consumers and makeup artists alike", "Alpha-hydroxy fruit acids help eliminate fine lines while Zinc Oxide prevents breakouts", "The specially designed sponge ensures a flawless application every time", "Can be applied wet, for maximum, all-day coverage, or dry, for light finishes and touch-ups", "*Palladio does not test its products or any of its ingredients on animals"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/416360n7uUL._SL160_.jpg"]
+  "price": "$3.85",
+  "url": ["https://www.amazon.com/L-Girl-Coverage-Liquid-Foundation/dp/B01M4IGE0Y?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M4IGE0Y"],
+  "brand": ["L.A. Girl"],
+  "manufacturer": ["L.A. Girl"],
+  "model": ["GLM642"],
+  "title": ["L.A. Girl Pro Coverage Liquid Foundation, Fair, 0.95 Fluid Ounce"],
+  "features": ["Medium to full coverage", "Long wearing", "Lightweight, luminous, paraben-free formula"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41tMcGrERhL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Boots-No7-Luminate-SPF15-Foundation/dp/B00ENKBGAG?SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00ENKBGAG"],
-  "brand": ["Boots No7"],
-  "manufacturer": ["Boots"],
-  "title": ["Boots No7 Lift & Luminate SPF15 Foundation, Cool Beige, 1oz"],
-  "features": ["Bright, beautiful and uplifted"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/413aCvEqbTL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Revlon-ColorStay-Whipped-Makeup-Natural/dp/B0082D9VH0?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0082D9VH0"],
-  "brand": ["Revlon"],
-  "manufacturer": ["Revlon Consumer Products Corp."],
-  "model": ["7209895006"],
-  "title": ["Revlon ColorStay Whipped Crème Makeup, Natural Beige"],
-  "features": ["#240 Natural Beige", "Bouncy, whipped formula", "Lightweight, mousse-like makeup for all-day comfort", "Withstands heat and humidity for 24 hour wear", "Available in 12 shades"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51K6XZgrZQL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Professional-Toothbrush-Foundation-Beauty-Kate/dp/B01IT09GL6?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01IT09GL6"],
-  "brand": ["Beauty Kate"],
-  "manufacturer": ["Micup"],
-  "model": ["Micup"],
-  "title": ["Oval Makeup Brush Set of 5 Pcs Professional Oval Toothbrush Foundation Contour Concealer Eyeliner Blending Cosmetic Brushes Tool Set by Beauty Kate (Rose Gold Black)"],
-  "features": ["❤Remarkable Vision❤ Remarkable brushes at a remarkable price. Built in MIRROR like of the other side of the brush head, ergonomic rubbery type grip helps to keep a GRIP on the brush", "❤Level-Up Design❤ Extra widened handle provides a sturdier holding, so that the handle won't be easy to break", "❤Multi-Function❤ This 5Pcs Elite Set covers all the basic needs in your daily makeup routine from foundation, contour, blush, eyeshadow to lip coloring", "❤Reliable Material❤ High quality synthetic hair provides superb ability for holding liquids, powders or creams, gives your skin a flawless and airbrushed finish every time", "❤2017 Must Own❤ Fabulous ROSE GOLD brush with the hot new TOOTHBRUSH design, loved by lots of beauty enthusiasts. The elite oval brushes every girl MUST HAVE!"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41C7E6yZc6L._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/jane-iredale-Liquid-Minerals-Foundation/dp/B001G9EDNY?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001G9EDNY"],
-  "brand": ["jane iredale"],
-  "manufacturer": ["Jane Iredale"],
-  "model": ["11509"],
-  "title": ["jane iredale Liquid Minerals A Foundation, Latte, 1.01 oz."],
-  "features": ["The look - moist and light", "The feel - like a second skin", "Cruelty- free", "The beads or spheres visible in the airless pump are actually liposomes encapsulating liposomes", "State of the art technology prevents active ingredients from degrading and allows actives to time release into the skin"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/414EQdnzKWL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/essence-Pure-Nude-Make-Up-Sand/dp/B01BI515SG?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BI515SG"],
-  "brand": ["essence cosmetics"],
-  "manufacturer": ["Cosnova"],
-  "title": ["essence Pure Nude Make-Up, 20 Pure Sand"],
-  "features": ["Purely natural", "This light-weight and silky liquid foundation blends easily for a gorgeous barely-there look", "The finish is natural and semi-matte giving off the �no make-up� subtle look and feel"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/311RBfqzb4L._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Estee-Lauder-Double-Place-Makeup/dp/B009VMWW2C?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B009VMWW2C"],
-  "brand": ["Estee Lauder"],
-  "manufacturer": ["ESTEE LAUDER"],
-  "title": ["Estee Lauder Double Wear Stay-in-Place Makeup FRESCO 01 FL. Oz/30 ml"],
-  "features": ["Long-wearing makeup with 15-hour staying power. Looks flawless and natural. Lasts through heat, humidity, non-stop activity."],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41Twf55RgaL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/l-f-Studio-flawless-foundation-porcelain/dp/B004X1QCC2?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004X1QCC2"],
+  "price": "$6.00",
+  "url": ["https://www.amazon.com/l-f-Studio-flawless-foundation-porcelain/dp/B004X1QCC2?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004X1QCC2"],
   "brand": ["e.l.f. Cosmetics"],
   "manufacturer": ["JA Cosmetics"],
   "model": ["83111"],
@@ -250,7 +99,8 @@
   "features": ["Sleek design great for travel or on the go", "Tested by our team of expert makeup professionals for the best quality", "Why overpay when you can get the same quality for less"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31SxiXxtFWL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/LOreal-Paris-Infallible-Pro-Matte-Foundation/dp/B00PFCTS6U?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00PFCTS6U"],
+  "price": "$9.74",
+  "url": ["https://www.amazon.com/LOreal-Paris-Infallible-Pro-Matte-Foundation/dp/B00PFCTS6U?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00PFCTS6U"],
   "brand": ["L'Oreal Paris"],
   "manufacturer": ["L'Oreal Paris Cosmetics"],
   "model": ["K1828600"],
@@ -258,14 +108,32 @@
   "features": ["Up to 24HR matte without the flat", "Air-light texture, demi-matte finish", "Hides Imperfections for a Smooth Complexion", "The pro look of longwear"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/319ECUwsLbL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Smashbox-Studio-Hydrating-Foundation-Fluid/dp/B007SZ0CLC?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B007SZ0CLC"],
+  "price": "$23.39",
+  "url": ["https://www.amazon.com/Smashbox-Studio-Hydrating-Foundation-Fluid/dp/B007SZ0CLC?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B007SZ0CLC"],
   "brand": ["Smashbox"],
   "manufacturer": ["Smashbox"],
   "title": ["Smashbox Studio Skin 15 Hour Wear Hydrating Foundation, 2.3, 1 Fluid Ounce"],
   "features": ["Get the perfect skin for up to 15 hours with this base that is the secret of the photo shoots.", "Its formula covers imperfections using light diffusing beads", "Delivers full to medium coverage with natural-looking, moisturized and oil-free skin."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41G6cbgDM6L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/N-Y-C-Color-Creme-Foundation-Matte/dp/B00RUNYVVY?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00RUNYVVY"],
+  "price": "$47.00",
+  "url": ["https://www.amazon.com/MAC-Pro-Longwear-Foundation-NW20/dp/B004HI6STI?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004HI6STI"],
+  "brand": ["M.A.C"],
+  "manufacturer": ["Mac"],
+  "title": ["MAC Pro Longwear Foundation - NW20"],
+  "features": ["New in Original Retail Box", "Full Size Product: 30 mL / 1 Oz"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/319pczrYYAL._SL160_.jpg"]
+}, {
+  "price": "$37.29",
+  "url": ["https://www.amazon.com/Estee-Lauder-Double-Place-Makeup/dp/B009VMWW2C?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B009VMWW2C"],
+  "brand": ["Estee Lauder"],
+  "manufacturer": ["ESTEE LAUDER"],
+  "title": ["Estee Lauder Double Wear Stay-in-Place Makeup FRESCO 01 FL. Oz/30 ml"],
+  "features": ["Long-wearing makeup with 15-hour staying power. Looks flawless and natural. Lasts through heat, humidity, non-stop activity."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41Twf55RgaL._SL160_.jpg"]
+}, {
+  "price": "$3.99",
+  "url": ["https://www.amazon.com/N-Y-C-Color-Creme-Foundation-Matte/dp/B00RUNYVVY?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00RUNYVVY"],
   "brand": ["N.Y.C."],
   "manufacturer": ["N.Y.C. New York Color"],
   "model": ["27005805001"],
@@ -273,30 +141,17 @@
   "features": ["Wears up to 14 hours", "Minimizes the appearance of pores and lines", "Smoothes skin", "Minimizes the appearance of skin mperfections", "Natural finish"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41oJfKw8ZlL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Maybelline-Smooth-Foundation-Classic-Packaging/dp/B004675EI6?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004675EI6"],
+  "price": "$5.94",
+  "url": ["https://www.amazon.com/Maybelline-Smooth-Foundation-Ivory-Packaging/dp/B00467DASM?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00467DASM"],
   "brand": ["Maybelline New York"],
   "manufacturer": ["Maybelline New York"],
-  "model": ["K0869700"],
-  "title": ["Maybelline Fit Me Dewy + Smooth Foundation, Classic Ivory, 1 fl. oz. (Packaging May Vary)"],
+  "model": ["May-4133"],
+  "title": ["Maybelline Fit Me Dewy + Smooth Foundation, Ivory, 1 fl. oz. (Packaging May Vary)"],
   "features": ["Dewy and smooth foundation makeup with spf 18", "Hydrating foundation smoothes skin's texture", "Leaves a naturally luminous finish", "Moisturizing foundation ideal for normal to dry skin"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31r8QyHdvJL._SL160_.jpg"]
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41GqeYlwZrL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Bourjois-Teint-Healthy-Extension-Serum/dp/B005IEH67I?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005IEH67I"],
-  "brand": ["Bourjois"],
-  "manufacturer": ["Bourjois"],
-  "model": ["374532"],
-  "title": ["Bourjois Fond de Teint Healthy Mix Extension Serum, No. 53 Beige Clair, 1 Ounce"],
-  "features": ["Give your skin a radiance boost and leave it looking flawless for up to 16 hours", "It is enriched with crystalline pigments to even out the complexion while letting in the natural light for that healthy looking glow", "It is recommended for casual wear"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31QpnVH0JkL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/MAC-Pro-Longwear-Foundation-NW20/dp/B004HI6STI?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B004HI6STI"],
-  "brand": ["M.A.C"],
-  "manufacturer": ["Mac"],
-  "title": ["MAC Pro Longwear Foundation - NW20"],
-  "features": ["New in Original Retail Box", "Full Size Product: 30 mL / 1 Oz"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/319pczrYYAL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/L-Girl-Conceal-Concealer/dp/B00VKIJPNE?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00VKIJPNE"],
+  "price": "$2.38",
+  "url": ["https://www.amazon.com/L-Girl-Conceal-Concealer/dp/B00VKIJPNE?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00VKIJPNE"],
   "brand": ["L.A. Girl"],
   "manufacturer": ["L.A. Girl"],
   "model": ["GC970"],
@@ -304,7 +159,17 @@
   "features": ["Camouflages the appearance of skin imperfections", "Evens out skin tone", "Covers dark circles", "Minimizes fine lines"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31oL0EPYQfL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Poreless-Foundation/dp/B00PFCSUNC?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00PFCSUNC"],
+  "price": "$5.94",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Oil-Free-Foundation/dp/B00DRPSQ60?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00DRPSQ60"],
+  "brand": ["Maybelline New York"],
+  "manufacturer": ["Maybelline New York"],
+  "model": ["K1424002"],
+  "title": ["Maybelline New York Fit Me! Oil-Free Stick Foundation, 220 Natural Beige, 0.32 Ounce"],
+  "features": ["Natural coverage that leaves skin fresh, breathing, and natural", "An exclusive translucent base and lightweight pigments", "Allows skin's natural highs and lows to show through"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/311Goq-LVbL._SL160_.jpg"]
+}, {
+  "price": "$5.94",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Poreless-Foundation/dp/B00PFCSUNC?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00PFCSUNC"],
   "brand": ["Maybelline New York"],
   "manufacturer": ["Maybelline New York"],
   "model": ["K1840700"],
@@ -312,38 +177,17 @@
   "features": ["Ultra-lightweight foundation for normal to oily skin", "Tone plus texture-fitting foundation for the ultimate natural fit", "Erases pores and matches natural tone"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31TVwXomL-L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Photo-Focus-Foundation-Golden-Beige/dp/B01NASKTM9?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NASKTM9"],
-  "brand": ["Wet 'n Wild"],
-  "manufacturer": ["Markwins Beauty Products"],
-  "title": ["wet n wild Photo Focus Foundation, Golden Beige, 1 Fluid Ounce"],
-  "features": ["High-performing, skin-perfecting foundation tested under seven different photo lighting conditions to deliver flawless camera-ready makeup every time!", "Featuring a light-adjusting complex that stays selfie-perfect anytime, anyplace.", "Breakthrough formula \nfeaturing light-adjusting complex to help prevent white cast in photos, delivers virtually flawless and buildable coverage", "Color matched for all undertones with a matte, second-skin finish-soft focus properties help perfect appearance of skin"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41W4kTe4FwL._SL160_.jpg"]
+  "price": "$2.00",
+  "url": ["https://www.amazon.com/Rimmel-Matte-Foundation-Ivory-Fluid/dp/B00GB0IO3I?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00GB0IO3I"],
+  "brand": ["Rimmel"],
+  "manufacturer": ["Rimmel"],
+  "model": ["34788818103"],
+  "title": ["Rimmel Stay Matte Foundation, True Ivory, 1 Fluid Ounce"],
+  "features": ["Feather-light, liquid mousse blends flawlessly for natural-looking, all day shine control", "Silky smooth formula leaves a perfectly matte, baby-soft finish", "Lightweight texture won't feel heavy or greasy"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31pW6wfBugL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Foundation-Porcelain/dp/B001Q89YTI?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001Q89YTI"],
-  "brand": ["Maybelline New York"],
-  "manufacturer": ["Maybelline"],
-  "model": ["K0559801"],
-  "title": ["Maybelline New York Dream Liquid Mousse Foundation, Porcelain Ivory, 1 fl. oz.(Packaging May Vary)"],
-  "features": ["Full coverage foundation", "Up to 16 hours wear", "Ideal for normal skin"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31Z842xqHqL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Revlon-ColorStay-Liquid-Makeup-Combination/dp/B0039UUD00?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0039UUD00"],
-  "brand": ["Revlon"],
-  "manufacturer": ["Revlon"],
-  "model": ["7200434001"],
-  "title": ["Revlon ColorStay Liquid Makeup for Combination/Oily, Ivory"],
-  "features": ["#110 Ivory", "Glides on smooth", "Long-lasting shine control that lasts up to 24 hours", "Comes in 22 beautiful, longwearing shades", "Oil-free, fragrance free, SPF protection"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41C0HxagzrL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Super-Blendable-Makeup-Natural/dp/B001126Y1K?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001126Y1K"],
-  "brand": ["L'Oreal Paris"],
-  "manufacturer": ["L'Oreal Paris Cosmetics"],
-  "model": ["K1371004"],
-  "title": ["L'Oréal Paris True Match Super-Blendable Makeup, Natural Beige, 1 fl. oz."],
-  "features": ["Super Blendable Foundation", "Precisely matches skin tone and undertone", "Diffuses imperfections and nourishes skin", "45 True to you shades"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41mzy4heE%2BL._SL160_.jpg"]
-}, {
-  "url": ["https://www.amazon.com/Dermacol-Make-Up-Waterproof-Hypoallergenic-Foundation/dp/B01CNQBISQ?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01CNQBISQ"],
+  "price": "$12.28",
+  "url": ["https://www.amazon.com/Dermacol-Make-Up-Waterproof-Hypoallergenic-Foundation/dp/B01CNQBISQ?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01CNQBISQ"],
   "brand": ["Dermacol"],
   "manufacturer": ["Dermacol"],
   "model": ["2956"],
@@ -351,15 +195,51 @@
   "features": ["The clinically tested, extreme covering Make up Cover was created as the first of its kind in Europe and one of the first in the world. The license for this foundation was eventually sold to Hollywood. It contains 50% pigments, which makes it a weapon against skin imperfections.", "DERMACOL MAKE-UP COVER provides PERFECT COVERAGE even in thin layers and is the perfect corrector for dark under-eye, unpleasant spots and skin blemishes. It completely covers acne, loss of pigmentation, post surgical bruising, tattoos etc.", "It may be used on the entire face or body for color correction, darkening or lightening the skin tones, and ensuring ideal balance. It is widely used as a professional make-up for photo or film shoots, modeling and for festive occasions.", "Dermacol Make-up Cover provides outstanding coverage with a natural looking finish for your entire face and body. Your skin will be well balanced and have a velvety matte appearance."],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51BhNqAbQTL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Milani-Conceal-Perfect-Foundation-Concealer/dp/B01BX9MU7M?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BX9MU7M"],
+  "price": "$4.68",
+  "url": ["https://www.amazon.com/Photo-Focus-Foundation-Golden-Beige/dp/B01NASKTM9?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01NASKTM9"],
+  "brand": ["Wet 'n Wild"],
+  "manufacturer": ["Markwins Beauty Products"],
+  "title": ["wet n wild Photo Focus Foundation, Golden Beige, 1 Fluid Ounce"],
+  "features": ["High-performing, skin-perfecting foundation tested under seven different photo lighting conditions to deliver flawless camera-ready makeup every time!", "Featuring a light-adjusting complex that stays selfie-perfect anytime, anyplace.", "Breakthrough formula \nfeaturing light-adjusting complex to help prevent white cast in photos, delivers virtually flawless and buildable coverage", "Color matched for all undertones with a matte, second-skin finish-soft focus properties help perfect appearance of skin"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41W4kTe4FwL._SL160_.jpg"]
+}, {
+  "price": "$6.75",
+  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Super-Blendable-Makeup-Natural/dp/B001126Y1K?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001126Y1K"],
+  "brand": ["L'Oreal Paris"],
+  "manufacturer": ["L'Oreal Paris Cosmetics"],
+  "model": ["K1371004"],
+  "title": ["L'Oréal Paris True Match Super-Blendable Makeup, Natural Beige, 1 fl. oz."],
+  "features": ["Super Blendable Foundation", "Precisely matches skin tone and undertone", "Diffuses imperfections and nourishes skin", "45 True to you shades"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41mzy4heE%2BL._SL160_.jpg"]
+}, {
+  "price": "$9.98",
+  "url": ["https://www.amazon.com/Revlon-ColorStay-Liquid-Combination-Natural/dp/B0039UTUZE?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0039UTUZE"],
+  "brand": ["Revlon"],
+  "manufacturer": ["Revlon"],
+  "model": ["7200434005"],
+  "title": ["Revlon ColorStay Liquid Makeup for Combination/Oily, Natural Beige"],
+  "features": ["#220 Natural Beige", "Glides on smooth", "Long-lasting shine control that lasts up to 24 hours", "Comes in 22 beautiful, longwearing shades", "Oil-free, fragrance free, SPF protection"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41pioQol6aL._SL160_.jpg"]
+}, {
+  "price": "$8.96",
+  "url": ["https://www.amazon.com/Milani-Conceal-Perfect-Foundation-Concealer/dp/B01BX9KHTK?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BX9KHTK"],
   "brand": ["Milani"],
   "manufacturer": ["Milani"],
-  "model": ["kaka-boynam10-low442"],
-  "title": ["Milani Conceal + Perfect 2-in-1 Foundation Concealer, Natural, 1.0 Fluid Ounce"],
+  "title": ["Milani Conceal + Perfect 2-in-1 Foundation Concealer, Vanilla, 1.0 Fluid Ounce"],
   "features": ["Pigment-packed foundation for all skin types", "Helps conceal imperfections"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31Wx%2BpeNNPL._SL160_.jpg"]
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41WeqX7%2B-7L._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/Maybelline-New-York-Fluid-Touch-Foundation/dp/B00L256KVU?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00L256KVU"],
+  "price": "$3.00",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Foundation-Porcelain/dp/B001Q89YTI?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001Q89YTI"],
+  "brand": ["Maybelline New York"],
+  "manufacturer": ["Maybelline"],
+  "model": ["K0559801"],
+  "title": ["Maybelline New York Dream Liquid Mousse Foundation, Porcelain Ivory, 1 fl. oz.(Packaging May Vary)"],
+  "features": ["Full coverage foundation", "Up to 16 hours wear", "Ideal for normal skin"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31Z842xqHqL._SL160_.jpg"]
+}, {
+  "price": "$3.94",
+  "url": ["https://www.amazon.com/Maybelline-New-York-Fluid-Touch-Foundation/dp/B00L256KVU?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00L256KVU"],
   "brand": ["Maybelline New York"],
   "manufacturer": ["Maybelline"],
   "model": ["1213DWF-70"],
@@ -367,7 +247,8 @@
   "features": ["The thinnest layer of perfection ever", "Each concentrated drop of skin fusion pigments spreads into flawless perfection", "Covers flawlessly"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31KEeSk4buL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/bareMinerals-Serum-Foundation-Bare-Satin/dp/B00JVVQSFA?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00JVVQSFA"],
+  "price": "$17.64",
+  "url": ["https://www.amazon.com/bareMinerals-Serum-Foundation-Bare-Satin/dp/B00JVVQSFA?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00JVVQSFA"],
   "brand": ["Bare Escentuals"],
   "manufacturer": ["bareMinerals"],
   "model": ["70722"],
@@ -375,11 +256,178 @@
   "features": ["Famous no-makeup look and feel", "Clinically proven to improve the appearance of dark spots, skin brightness and skin texture", "Coconut-derived base with jojoba-coated mineral pigments and non-chemical broad spectrum SPF 20"],
   "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/4154nL6ANxL._SL160_.jpg"]
 }, {
-  "url": ["https://www.amazon.com/L-Girl-Coverage-Liquid-Foundation/dp/B01M4IGE0Y?psc=1&SubscriptionId=AKIAJYQEGPADE3EZJX2A&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01M4IGE0Y"],
-  "brand": ["L.A. Girl"],
-  "manufacturer": ["L.A. Girl"],
-  "model": ["GLM642"],
-  "title": ["L.A. Girl Pro Coverage Liquid Foundation, Fair, 0.95 Fluid Ounce"],
-  "features": ["Medium to full coverage", "Long wearing", "Lightweight, luminous, paraben-free formula"],
-  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41tMcGrERhL._SL160_.jpg"]
+  "price": "$4.99",
+  "url": ["https://www.amazon.com/essence-Pure-Nude-Make-Up-Sand/dp/B01BI515SG?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01BI515SG"],
+  "brand": ["essence cosmetics"],
+  "manufacturer": ["Cosnova"],
+  "title": ["essence Pure Nude Make-Up, 20 Pure Sand"],
+  "features": ["Purely natural", "This light-weight and silky liquid foundation blends easily for a gorgeous barely-there look", "The finish is natural and semi-matte giving off the �no make-up� subtle look and feel"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/311RBfqzb4L._SL160_.jpg"]
+}, {
+  "price": "$9.74",
+  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Healthy-Luminous-Classic/dp/B008DF54K0?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B008DF54K0"],
+  "brand": ["L'Oreal Paris"],
+  "manufacturer": ["L'Oreal Paris Cosmetics"],
+  "model": ["n1-2 neutral"],
+  "title": ["L'Oréal Paris True Match Lumi Healthy Luminous Makeup, N1-2 Soft Ivory/Classic Ivory, 1 fl. oz."],
+  "features": ["Luminous Liquid Makeup", "Instantly Illuminates Skin", "In 1 Month, Skin's Clearer, More Even", "Anti-oxidants Vitamin C plus E"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31KMkjGIJIL._SL160_.jpg"]
+}, {
+  "price": "$8.99",
+  "url": ["https://www.amazon.com/BS-MALL-Foundation-Brushes-Synthetic-brushes/dp/B01N1F5V7S?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01N1F5V7S"],
+  "brand": ["BS-MALL"],
+  "manufacturer": ["BS-MALL"],
+  "title": ["BS-MALL Face Foundation Powder Liquid Cream Oval Makeup Brushes Set Synthetic Makeup brushes(Pack of 6)"],
+  "features": ["Package include 4 blender makeup brushes and 2 Toothbrush Style Makeup brushes", "Super Soft but firm and dense enough to apply makeup.", "silky soft, a professional makeup brush set.", "BS-MALL(TM) Premium Synthetic Kabuki Makeup Brush Set-Amazing Quality & Great Price& high level after-sale service!"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51yDW6GlSuL._SL160_.jpg"]
+}, {
+  "price": "$28.53",
+  "url": ["https://www.amazon.com/Exuviance-Skin-Caring-Foundation-Honey/dp/B002GMFGWM?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B002GMFGWM"],
+  "brand": ["Exuviance"],
+  "manufacturer": ["Exuviance"],
+  "model": ["8729"],
+  "title": ["Exuviance Skin Caring Foundation, Honey Sand"],
+  "features": ["Provides light to medium coverage to even out skin tone", "Easily glides on with a water-based", "Contains clinically proven and super effective Polyhydroxy Acid"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/21cAMEFvGkL._SL160_.jpg"]
+}, {
+  "price": "$9.50",
+  "url": ["https://www.amazon.com/COVERGIRL-Simply-Ageless-Foundation-Classic/dp/B01ACPW1SG?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01ACPW1SG"],
+  "brand": ["COVERGIRL"],
+  "manufacturer": ["CoverGirl"],
+  "model": ["008100100361"],
+  "title": ["COVERGIRL+Olay Simply Ageless 3-in-1 Liquid Foundation Classic Ivory, 1 oz"],
+  "features": ["Instantly reduces the look of wrinkles, evens skin tone and delivers firming hydration", "The #1 anti-aging foundation now available in a liquid", "Available in various shades ranging from light to tan", "Amazing skin science brought to makeup", "For an effective anti-aging system, use with COVERGIRL Simply Ageless Anti-Aging Foundation Primer"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41g7cUYF%2BzL._SL160_.jpg"]
+}, {
+  "price": "$8.94",
+  "url": ["https://www.amazon.com/COVERGIRL-Advanced-Radiance-Defying-Foundation/dp/B000MVEA5S?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B000MVEA5S"],
+  "brand": ["COVERGIRL"],
+  "manufacturer": ["CoverGirl"],
+  "model": ["CGRMQ8139"],
+  "title": ["COVERGIRL Advanced Radiance Age Defying Foundation Makeup Creamy Natural 120, 1 oz"],
+  "features": ["Liquid foundation restores skin's youthful appearance with 8 hours of continuous moisture", "Reduces the appearance of fine lines and wrinkles", "Available in various shades ranging from light to deep", "A radiant finish", "Complete your look with COVERGIRL Simply Ageless Anti-Aging Foundation Primer"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41VmhZTwnEL._SL160_.jpg"]
+}, {
+  "price": "$6.08",
+  "url": ["https://www.amazon.com/Physicians-Formula-Glowing-Foundation-Medium/dp/B00RGDZJ5A?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00RGDZJ5A"],
+  "brand": ["Physicians Formula"],
+  "manufacturer": ["Physicians Formula"],
+  "model": ["four21-five02-jooi3189"],
+  "title": ["Physicians Formula Nude Wear Glowing Nude Foundation, Light/Medium, 1 Fluid Ounce"],
+  "features": ["Weightless Fluid + Nude Perfection + Luminous Glow", "Airy foundation is formulated with translucent, 100% Perfecting Nude Glow pigments allow skin's natural radiance and color to shine through resulting in a beautiful bare skin effect that feels ultra-soft to the touch", "Hypoallergenic; Paraben Free; Gluten Free; Dermatologist approved; Non-Comedogenic; Fragrance Free; Oil Free", "Instantly evens out skin tone, illuminating and brightening complexion with a lit-from-within-glow, leaving behind the natural perfection of nearly naked skin that lasts all day", "Look perfected without looking made up"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/31O8H0fmzlL._SL160_.jpg"]
+}, {
+  "price": "$10.99",
+  "url": ["https://www.amazon.com/Bourjois-Teint-Healthy-Extension-Vanille/dp/B005IEH614?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005IEH614"],
+  "brand": ["Bourjois"],
+  "manufacturer": ["Bourjois"],
+  "model": ["374522"],
+  "title": ["Bourjois Fond de Teint Healthy Mix Extension Serum, No. 52 Vanille, 1 Ounce"],
+  "features": ["Give your skin a radiance boost and leave it looking flawless for up to 16 hours", "It is enriched with crystalline pigments to even out the complexion while letting in the natural light for that healthy looking glow", "It is recommended for casual wear"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41MLpW12JUL._SL160_.jpg"]
+}, {
+  "price": "$7.47",
+  "url": ["https://www.amazon.com/COVERGIRL-Outlast-All-Day-Fabulous-Foundation/dp/B0094G3NI2?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B0094G3NI2"],
+  "brand": ["COVERGIRL"],
+  "manufacturer": ["CoverGirl"],
+  "model": ["CGRMQ0723"],
+  "title": ["COVERGIRL Outlast All-Day Stay Fabulous 3-in-1 Foundation Medium Beige, 1 oz"],
+  "features": ["3-in-1 all-day liquid foundation with broad spectrum sunscreen (SPF 20)", "All-day flawless matte coverage", "Available in 13 shades, ranging from light to deep", "All-day coverage that doesn't feel heavy or cakey", "Complete your look with COVERGIRL Outlast -Al-Day Makeup Primer"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41mytbh3FUL._SL160_.jpg"]
+}, {
+  "price": "$8.00",
+  "url": ["https://www.amazon.com/Neutrogena-Healthy-Liquid-Foundation-Spectrum/dp/B001MS7HFU?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001MS7HFU"],
+  "brand": ["Neutrogena"],
+  "manufacturer": ["Neutrogena Cosmetics"],
+  "model": ["686700300"],
+  "title": ["Neutrogena Healthy Skin Liquid Makeup Foundation, Broad Spectrum Spf 20, 30 Buff, 1 Oz."],
+  "features": ["1-ounce bottle of liquid foundation", "Helps provides beautiful, flawless coverage", "Lightweight makeup glides on smoothly", "Helps visibly improve skin's luminosity, tone, and texture", "Contains Broad Spectrum SPF 20 sunscreen with titanium dioxide"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41OMxYIcfxL._SL160_.jpg"]
+}, {
+  "price": "$9.90",
+  "url": ["https://www.amazon.com/Foundation-Makeup-Brush-Flat-Kabuki/dp/B018FYTG70?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B018FYTG70"],
+  "brand": ["Lamora"],
+  "manufacturer": ["Lamora Beauty"],
+  "title": ["Foundation Makeup Brush Flat Top Kabuki for Face - Perfect For Blending Liquid, Cream or Flawless Powder Cosmetics - Buffing, Stippling, Concealer - Premium Quality Synthetic Dense Bristles!"],
+  "features": ["✓ This is one of the BEST FOUNDATION MAKEUP BRUSHES you will ever buy. It is so soft, dense, silky and applies foundation so well. This Flat Top Kabuki Brush will exceed your expectations. Your foundation will look flawless and airbrushed. You will be in love with it.", "✓ This PREMIUM QUALITY foundation brush is great for everyday makeup and NO this is not just another \"Amazon\" makeup brush. With this real makeup artist brush your imperfections will disappear and you will be left with a airbrushed finish.", "✓ The Lamora FLAT KABUKI brush is a professional foundation brush that everyone can afford. It comes with high quality synthetic bristles and a black wooden handle. Use this makeup brush as a powder or stippling brush to apply powder, cream and liquid products onto the skin without trapping or absorption of product. It does not soak up excessive amounts of product like other makeup brushes.", "✓ With Lamora Beauty you will achieve not just a SMOOTH and FLAWLESS foundation but also experience an outstanding customer service that guides you through the ordering/shipping process and provides you with awesome beauty tips.", "✓ ORDER NOW and get our peace of mind 30-day \"better than money back\" guarantee. We are here to make YOU happy! 100% Satisfaction Guarantee!"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/316HsL3OaUL._SL160_.jpg"]
+}, {
+  "price": "$6.50",
+  "url": ["https://www.amazon.com/Revlon-PhotoReady-Airbrush-Effect-Makeup/dp/B00SA6XSE6?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00SA6XSE6"],
+  "brand": ["Revlon"],
+  "manufacturer": ["Revlon Consumer Products Corp."],
+  "model": ["7213130004"],
+  "title": ["Revlon PhotoReady Airbrush Effect Makeup,  Nude"],
+  "features": ["#004 Nude", "Foundation delivers a poreless, airbrushed look", "Revolutionary formula with light-filtering technology", "Provides medium to full coverage", "SPF 20"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41eZUkBY0NL._SL160_.jpg"]
+}, {
+  "price": "$16.20",
+  "url": ["https://www.amazon.com/Boots-No7-Luminate-SPF15-Foundation/dp/B00ENKBGAG?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00ENKBGAG"],
+  "brand": ["Boots No7"],
+  "manufacturer": ["Boots"],
+  "title": ["Boots No7 Lift & Luminate SPF15 Foundation, Cool Beige, 1oz"],
+  "features": ["Bright, beautiful and uplifted"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/413aCvEqbTL._SL160_.jpg"]
+}, {
+  "price": "$36.00",
+  "url": ["https://www.amazon.com/Dermablend-Smooth-Liquid-Foundation-Coverage/dp/B00M0V3MB6?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00M0V3MB6"],
+  "brand": ["Dermablend"],
+  "manufacturer": ["Dermablend"],
+  "model": ["S1533500"],
+  "title": ["Dermablend Smooth Liquid Foundation Makeup with SPF 25 for Medium to Full Coverage, 30n Camel, 1 Fl. Oz."],
+  "features": ["Liquid foundation", "Full coverage foundation makeup", "Liquid makeup foundation"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/4166pHEvr%2BL._SL160_.jpg"]
+}, {
+  "price": "$52.00",
+  "url": ["https://www.amazon.com/jane-iredale-Liquid-Minerals-Foundation/dp/B001G9EDNY?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001G9EDNY"],
+  "brand": ["jane iredale"],
+  "manufacturer": ["Jane Iredale"],
+  "model": ["11509"],
+  "title": ["jane iredale Liquid Minerals A Foundation, Latte, 1.01 oz."],
+  "features": ["The look - moist and light", "The feel - like a second skin", "Cruelty- free", "The beads or spheres visible in the airless pump are actually liposomes encapsulating liposomes", "State of the art technology prevents active ingredients from degrading and allows actives to time release into the skin"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/414EQdnzKWL._SL160_.jpg"]
+}, {
+  "price": "$0.12",
+  "url": ["https://www.amazon.com/Paris-Foundation-209-True-Beige/dp/B00L78EPZU?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B00L78EPZU"],
+  "brand": ["L'Oreal Paris"],
+  "manufacturer": ["L'Oreal Paris"],
+  "model": ["209 True Beige"],
+  "title": ["L'oreal Paris Visible Lift Blur Foundation, 209 True Beige, 1.3 Fluid Ounce"],
+  "features": ["Makeup that blurs the look of lines, wrinkles and uneven texture", "Formulated with Opti-Blur Technology", "Suitable for all skin types", "Non-comedogenic", "SPF 18"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/313AermwxfL._SL160_.jpg"]
+}, {
+  "price": "$4.99",
+  "url": ["https://www.amazon.com/Black-Opal-Color-Foundation-Walnut/dp/B01LZM3UME?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LZM3UME"],
+  "brand": ["Black Opal"],
+  "manufacturer": ["Black Opal"],
+  "model": ["27811010943"],
+  "title": ["Black Opal True Color Stick Foundation Spf#15, Black Walnut"],
+  "features": ["Broad spectrum protection", "Crème stick foundation", "Hypoallergenic"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/417b35BMmtL._SL160_.jpg"]
+}, {
+  "price": "$6.25",
+  "url": ["https://www.amazon.com/Max-Factor-Panstik-Foundation-Nouveau/dp/B001GNBVRQ?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001GNBVRQ"],
+  "brand": ["Max Factor"],
+  "manufacturer": ["Max Factor"],
+  "model": ["80911842"],
+  "title": ["Max Factor Panstik Foundation - 13 Nouveau Beige"],
+  "features": ["31"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41r4Ky4wE6L._SL160_.jpg"]
+}, {
+  "price": "$34.77",
+  "url": ["https://www.amazon.com/Double-Wear-Stay-Place-Makeup/dp/B001JZ1XK6?SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B001JZ1XK6"],
+  "brand": ["Estee Lauder"],
+  "manufacturer": ["PerfumeWorldWide, Inc."],
+  "model": ["C-EL-222-30"],
+  "title": ["Double Wear Stay-In-Place Makeup SPF 10 - # 4 Pebble (3C2) - All Skin Types by Estee Lauder for Women - 1 oz Makeup"],
+  "features": ["All our fragrances are 100% originals by their original designers. We do not sell any knockoffs or imitations.", "Packaging for this product may vary from that shown in the image above.", "We offer many great sales and discounts making this fragrance cheaper than at department stores."],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/51Mg0WqC-tL._SL160_.jpg"]
+}, {
+  "price": "$8.89",
+  "url": ["https://www.amazon.com/LOr%C3%A9al-Paris-Infallible-Total-Foundation/dp/B01LYOHAUC?psc=1&SubscriptionId=AKIAISMVTXB6DT3HKVAQ&tag=alexisherrera-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B01LYOHAUC"],
+  "brand": ["L'Oreal Paris"],
+  "manufacturer": ["L'Oreal Paris Cosmetics"],
+  "title": ["L'Oréal Paris Infallible Total Cover Foundation, Cocoa, 1 fl. oz."],
+  "features": ["Up To 24HR Total Coverage", "Weightless Feel", "The New Pro Look of Longwear", "Full Coverage Formula Hides Imperfections and Blemishes"],
+  "imageLink": ["https://images-na.ssl-images-amazon.com/images/I/41sQkrjSovL._SL160_.jpg"]
 }]
