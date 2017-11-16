@@ -1,0 +1,1 @@
+exception = "1, 2-hexanediol"
