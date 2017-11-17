@@ -1,0 +1,7 @@
+mysql -u guest -p -h cis550db.ccki9sn7b1oz.us-east-1.rds.amazonaws.com
+
+password: cis550
+
+after connecting type: "use CIS550;"
+
+Then you have access to all tables.

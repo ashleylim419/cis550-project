@@ -1,1 +1,149 @@
-19/name/price
+1,/,Neutrogena Oil-Free Acne Face Wash Daily Scrub With Salicylic Acid, 4.2 Fl. Oz.,/,5.22
+2,/,Vitamin C Facial Cleanser,/,20.97
+3,/,Neutrogena Deep Clean Cream Cleanser, 7 Fl. Oz,/,4.22
+4,/,Alba Botanica Good and Clean Daily Detox Foaming Cleanser, 6 Ounce,/,4.19
+5,/,Aveeno Absolutely Ageless Facial Nourishing Anti-Aging Cleanser, 5.2 Fl. Oz,/,6.99
+6,/,Philosophy Purity Made Simple One-Step Facial Cleanser, 8 Ounce,/,19.99
+7,/,OZNaturals Vitamin C Facial Cleanser,/,15.49
+8,/,Aveeno Ultra-Calming Foaming  Cleanser For Sensitive Skin, 6 Fl. Oz,/,5.68
+9,/,CeraVe Foaming Facial Cleanser 12 oz for Daily Face Washing, Normal to Oily Skin,/,9.4
+10,/,Clean & Clear Day/Night Cleanser 2-Pack,/,8.97
+11,/,ArtNaturals Clarifying Acne Face Wash Deep Cleansing and Exfoliation of Acne, Blackheads and Pimples Infused with Cucumber and Aloe for Added Hydration, 8 oz.,/,8.95
+12,/,Aveeno Positively Radiant Skin Brightening Exfoliating Daily Scrub, 5 Oz,/,5.81
+13,/,Cetaphil Gentle Skin Cleanser, For all skin types, 16-Ounce Bottles (Pack of 2),/,14.91
+14,/,Glycolic Acid Exfoliating Cleanser,/,18.98
+15,/,Clean & Clear Essentials Foaming Facial Cleanser, 8 Fl. Oz,/,3.97
+16,/,Biore Charcoal Acne Cleanser, 6.77 Ounce,/,5.99
+17,/,Alaffia,/,12.99
+18,/,Neutrogena Healthy Skin Boosters Facial Cleanser, 9 Fl. Oz,/,7.12
+19,/,Maybelline New York Instant Age Rewind Eraser Treatment Makeup, Creamy Beige 290, 0.68 Fluid Ounce,/,6.4
+20,/,e.l.f. Acne Fighting Foundation, Buff, 1.21 Fluid Ounce,/,4.99
+21,/,L.A. Girl Pro Coverage Liquid Foundation, Fair, 0.95 Fluid Ounce,/,3.85
+22,/,e.l.f. Studio flawless finish foundation porcelain SPF 15 , 0.68 Ounce,/,6.0
+23,/,L'Oreal Paris Infallible Pro-Matte Foundation Makeup, 101 Classic Ivory, 1 fl. oz.,/,9.74
+24,/,Smashbox Studio Skin 15 Hour Wear Hydrating Foundation, 2.3, 1 Fluid Ounce,/,23.39
+25,/,L.A. Girl Pro Conceal HD Concealer, Light Ivory, 0.28 Ounce,/,2.38
+26,/,Maybelline New York Fit Me! Oil-Free Stick Foundation, 220 Natural Beige, 0.32 Ounce,/,5.94
+27,/,Rimmel Stay Matte Foundation, True Ivory, 1 Fluid Ounce,/,2.0
+28,/,wet n wild Photo Focus Foundation, Golden Beige, 1 Fluid Ounce,/,4.68
+29,/,L'Oréal Paris True Match Super-Blendable Makeup, Natural Beige, 1 fl. oz.,/,6.75
+30,/,Revlon ColorStay Liquid Makeup for Combination/Oily, Natural Beige,/,9.98
+31,/,Maybelline New York Dream Liquid Mousse Foundation, Porcelain Ivory, 1 fl. oz.(Packaging May Vary),/,3.0
+32,/,Maybelline New York Dream Wonder Fluid-Touch Foundation, Pure Beige, 0.67 Fluid Ounce,/,3.94
+33,/,bareMinerals Pure Serum Foundation, Bare Satin, 1 Ounce,/,17.64
+34,/,essence Pure Nude Make-Up, 20 Pure Sand,/,4.99
+35,/,L'Oréal Paris True Match Lumi Healthy Luminous Makeup, N1-2 Soft Ivory/Classic Ivory, 1 fl. oz.,/,9.74
+36,/,Exuviance Skin Caring Foundation, Honey Sand,/,28.53
+37,/,COVERGIRL Advanced Radiance Age Defying Foundation Makeup Creamy Natural 120, 1 oz,/,8.94
+38,/,Physicians Formula Nude Wear Glowing Nude Foundation, Light/Medium, 1 Fluid Ounce,/,6.08
+39,/,COVERGIRL Outlast All-Day Stay Fabulous 3-in-1 Foundation Medium Beige, 1 oz,/,7.47
+40,/,Neutrogena Healthy Skin Liquid Makeup Foundation, Broad Spectrum Spf 20, 30 Buff, 1 Oz.,/,8.0
+41,/,Dermablend Smooth Liquid Foundation Makeup with SPF 25 for Medium to Full Coverage, 30n Camel, 1 Fl. Oz.,/,36.0
+42,/,L'oreal Paris Visible Lift Blur Foundation, 209 True Beige, 1.3 Fluid Ounce,/,0.12
+43,/,L'Oréal Paris Infallible Total Cover Foundation, Cocoa, 1 fl. oz.,/,8.89
+44,/,NIVEA Smooth Daily Moisture Body Lotion 16.9 Fluid Ounce,/,5.22
+45,/,Hempz Original Herbal Body Moisturizer, 17 Fluid Ounce,/,7.77
+46,/,Lubriderm Daily Moisture Lotion Shea + Enriching Cocoa Butter, For Dry Skin 16 Fl. Oz.,/,5.06
+47,/,NIVEA Extended Moisture Body Lotion 16.9 Fluid Ounce,/,5.22
+48,/,Cetaphil Daily Advance Lotion, Ultra Hydrating, 16 Ounce,/,11.22
+49,/,Advanced Clinicals Coconut Oil Cream. Spa size 16oz Moisturizing Cream. Coconut Oil for Face, Hands, Hair.,/,8.75
+50,/,Lubriderm Advanced Therapy Extra Dry Skin Lotion, 16 Fl. Oz. (Pack of 2),/,10.98
+51,/,Eucerin Intensive Repair Very Dry Skin Lotion 16.9 Fluid Ounce,/,9.5
+52,/,NIVEA Essentially Enriched Body Lotion 16.9 Fluid Ounce,/,5.22
+53,/,Hand Cream Therapy Set,/,3.99
+54,/,J.R. Watkins Skin Care Gift Set, Lotion Devotion, Hand & Body Lotion/Foot Cream, 1 Ounce,/,9.99
+55,/,NIVEA Men Maximum Hydration 3 in 1 Nourishing Lotion 16.9 Fluid Ounce,/,5.7
+56,/,Alba Botanica Very Emollient Body Lotion, Maximum, 32 Ounce,/,9.99
+57,/,All Natural Burts Bees Paw and Nose Lotion,/,4.87
+58,/,Hempz Herbal Body Moisturizer, Light Pink, Pomegranate, 17 Fluid Ounce,/,9.65
+59,/,Aveeno Daily Moisturizing Body Lotion With SPF 15, 12 Fl. Oz,/,10.4
+60,/,Vanicream Lite Lotion Pump for Sensitive Skin, Free of Dyes, Lanolin, Fragrance, Parabens and Formaldehyde, 16 oz.,/,11.66
+61,/,EO Products EveryOne Men's Lotion,/,8.73
+62,/,Ultimate Healing Skin Therapy Lotion, 14 oz, 2 pk,/,13.99
+63,/,Gold Bond Men's Everyday Essentials Lotion, 14.5 Ounce,/,7.19
+64,/,Olay Quench Body Lotion Ultra Moisture with Shea Butter and Vitamins E and B3,20.2 oz(Pack of 2),/,15.34
+65,/,The Naked Bee Moisturizing Hand & Body Lotion, 8 Ounce, Orange Blossom Honey,/,5.82
+66,/,Adamia Therapeutic Repair Lotion with Macadamia Nut Oil and Promega-7, 16 Ounce,/,17.99
+67,/,Jergens Original Scent Moisturizer, Cherry-Almond, 10 Ounce,/,3.19
+68,/,Hempz Herbal Body Moisturizer, Fresh Coconut/Watermelon, 17 Fluid Ounce,/,9.93
+69,/,EO Everyone Lotion, Coconut plus Lemon, 32 Fl Oz,/,6.45
+70,/,Carpe Antiperspirant Foot Lotion, A dermatologist-recommended solution to stop sweaty, smelly feet, Helps prevent blisters, Great for hyperhidrosis,/,14.95
+71,/,Cetaphil Moisturizing Cream for Dry/Sensitive Skin, Fragrance Free 16 oz (Pack of 2),/,19.98
+72,/,Burt's Bees Fragrance Free Shea Butter and Vitamin E Body Lotion, 12 Ounces,/,8.1
+73,/,Everyone Body Lotion, Unscented, 32 Ounce,/,7.69
+74,/,Kiss My Face Fragrance Free Moisture Shave, 11 Ounce, 3 Count,/,17.99
+75,/,Avalon Organics Hand and Body Lotion, Aloe Unscented,/,11.14
+76,/,Hempz Herbal Body Moisturizer, Light Purple, Vanilla Plum, 17 Fluid Ounce,/,9.93
+77,/,Everyone Lotion, Lavender and Aloe, 32 Ounce, 2 Count,/,14.34
+78,/,Vanicream Moisturizing Skin Cream with pump for sensitive skin,/,12.65
+79,/,Facial Moisturizer, Natural Moisturizing Cream for Oily, Dry, Sensitive Skin,/,24.9
+80,/,Cetaphil Dermacontrol Moisturizer SPF 30, 4 Fluid Ounce,/,12.99
+81,/,Cetaphil Moisturizing Cream for Dry/Sensitive Skin, Fragrance Free 16 oz (Pack of 2),/,19.98
+82,/,Body Merry Retinol Surge Moisturizer,/,20.98
+83,/,BeeFriendly Face and Eye Cream 100% All Natural 85% Organic Moisturizer, All In One Face, Eye, Neck, Decollete Cream, 2 oz,/,24.99
+84,/,Cetaphil Restoraderm Eczema Calming Body Moisturizer, 10-Fluid Ounces,/,13.48
+85,/,Baebody Retinol Moisturizer Cream for Face and Eye Area,/,19.95
+86,/,Cetaphil Daily Advance Lotion, Ultra Hydrating, 16 Ounce,/,11.22
+87,/,Retinol Cream Moisturizer for Face and Eyes, Use Day and Night,/,18.99
+88,/,Alba Botanica Hawaiian, Aloe & Green Tea Oil-Free Moisturizer, 3 Ounce,/,3.63
+89,/,Clean & Clear Morning Burst Hydrating Gel Moisturizer, 3 Oz,/,6.02
+90,/,Garnier SkinActive Moisture Rescue Face Moisturizer, Dry Skin, 1.7 oz.,/,2.0
+91,/,Olay Total Effects Anti-Aging Night Firming Cream & Face Moisturizer, 1.7 Fluid Ounce,/,17.99
+92,/,YEOUTH Day Night Moisturizer for Face with Snail Extract, Hyaluronic Acid, Green Tea, and Peptides, Anti Aging Day Cream or Night Cream Moisturizer for Dry Skin, 4 oz,/,19.95
+93,/,Best Anti Aging Moisturizer Face Cream, Shea Butter, Jojoba & Macadamia Seed Oil, and Patented L22 Complex From YEOUTH, Hydrates, Firms, Erases Wrinkles and Evens Skin Tone,/,19.95
+94,/,Olay Total Effects 7-in-1 Anti-Aging Daily Face Moisturizer With SPF 30, 1.7 fl oz,/,18.9
+95,/,Aveeno Daily Moisturizing Lotion To Relieve Dry Skin, 2.5 Fl. Oz (Pack of 2),/,5.94
+96,/,Aveeno Ultra-Calming Daily Moisturizer For Sensitive Skin With Broad Spectrum Spf 15, 4 Fl. Oz.,/,12.36
+97,/,L'Oreal Paris Futur-e Moisturizer Facial Day Lotion SPF 15, Normal to Dry Skin, 4.0 Ounce,/,9.33
+98,/,CeraVe Moisturizing Cream 16 oz Daily Face and Body Moisturizer for Dry Skin,/,11.69
+99,/,Face Cream Moisturizer (1.7 OZ)  Natural Anti Aging Skin Care,/,17.99
+100,/,Facial Moisturizer, Organic and Natural Face Moisturizing Cream for Sensitive, Oily or Severely Dry Skin,/,25.99
+101,/,Garnier SkinActive Moisture Rescue Face Moisturizer, Normal/Combo Skin, 1.7 oz.,/,2.99
+102,/,Radha Beauty Retinol Moisturizer Cream for Face and Eye Area 1.7 Oz,/,18.95
+103,/,Burt's Bees Daily Face Moisturizer for Sensitive Skin, 1.8 Ounces,/,8.63
+104,/,Neutrogena Oil-Free Moisture Sensitive Skin, 4 Fl. Oz.,/,9.52
+105,/,Neutrogena Hydro Boost Gel-Cream, Extra-Dry Skin, 1.7 Oz,/,14.62
+106,/,Aveeno Positively Radiant Daily Moisturizer With Sunscreen Broad Spectrum Spf 15, 4 Oz,/,12.29
+107,/,Cremo Face Moisturizer, Astonishingly Superior 24 Hour Face Moisturizer, 4.4 Fluid Ounce,/,35.61
+108,/,Amara Organics Anti Aging Face Cream Moisturizer with Resveratrol & Peptides, 2 fl. oz.,/,21.95
+109,/,Nouvel Vitamin C Renewal Cream Vegan Face Moisturizer & Hand Cream with Certified Organic Ingredients, 2 fl. oz.,/,12.95
+110,/,Olay Total Effects Anti-Aging Face Moisturizer, Fragrance-Free 1.7 fl oz,/,15.08
+111,/,NIVEA Extended Moisture Body Lotion 16.9 Fluid Ounce,/,5.22
+112,/,Aveeno Clear Complexion Blemish Treatment Daily Moisturizer, 4 Oz,/,12.24
+113,/,NIVEA Smooth Daily Moisture Body Lotion 16.9 Fluid Ounce,/,5.22
+114,/,Philosophy Amazing Grace Shampoo, Bath & Shower Gel, 16 Ounces,/,14.5
+115,/,Avalon Organics Biotin B-Complex Thickening Shampoo, 14 Fluid Ounce,/,6.62
+116,/,Maple Holistics Sage Shampoo for Anti Dandruff with Jojoba, Argan, and Organic Tea Tree Oil – Natural, Sulfate Free Treatment for Women and Men – Safe for Color Treated Hair ( 8 fl. oz.),/,9.95
+117,/,Discipline by Kerastase Bain Fluidealiste Shampoo For Unruly Hair 250ml,/,18.62
+118,/,Fekkai Apple Cider Shampoo, 8 Fl Oz,/,15.19
+119,/,Ultrax Labs Hair Surge | Caffeine Hair Loss Hair Growth Stimulating Shampoo,/,59.95
+120,/,Nizoral A-D Anti-Dandruff Shampoo, 7 Oz,/,13.99
+121,/,Paul Mitchell Awapuhi Shampoo, 33.8 fl. oz.,/,18.99
+122,/,Moroccan Argan Oil Shampoo with Restorative Formula 16 fl. oz. Gentle & Sulfate Free for All Hair Types. Cleanses, Revives, Hydrates, Detangles Hair & Revitalizes the Scalp & Split-Ends,/,13.75
+123,/,OGX Shampoo Hydrating TeaTree Mint, (1) 13 Ounce Bottle, Moisturizing Shampoo with Australian Tea Tree Oils, Paraben Free, Sulfate Free, Sustainable Ingredients, Nourishing,/,5.99
+124,/,TIGI Bed Head Urban Anti-dote Recovery Shampoo & Conditioner Duo Damage Level 2 (25.36oz),/,17.95
+125,/,ArtNaturals Argan-Oil Volume Enhancing Shampoo – Sulfate Free,/,12.95
+126,/,Argan Oil Shampoo, Sulfate Free, 8 oz.,/,9.45
+127,/,Herbal Essences Hello Hydration Moisturizing Shampoo with Coconut Essences, 33.8 fl oz (Packaging May Vary),/,5.98
+128,/,Head and Shoulders Dry Scalp Care with Almond Oil Anti-Dandruff Shampoo 23.7 Fl Oz, 2 Count,/,22.5
+129,/,PURA D'OR Anti-Hair Loss Shampoo (Gold Label), Effective Solution for Hair Thinning & Breakage, NEW & IMPROVED PUMPS, 16 Fluid Ounce (Packaging May Vary),/,39.0
+130,/,Alba Botanica Drink It Up Coconut Milk, Hawaiian Duo Set Shampoo and Conditioner, 12 Ounce Bottle Each,/,14.01
+131,/,OGX Weightless Hydration Coconut Water Shampoo, (1) 13 Ounce Bottle, Paraben Free, Sustainable Ingredients, Lightweight and Hydrating and Shining with Electrolytes,/,4.79
+132,/,OGX Renewing Argan Oil of Morocco Shampoo, 13 Ounce,/,6.11
+133,/,OGX Nourishing Shampoo, Coconut Milk, Salon Size, (1) 25.4 Ounce Pump Bottle, Paraben Free, Sulfate Free, Sustainable Ingredients, Hydrating, Balancing and Strengthening,/,10.37
+134,/,PURA D'OR Hair Loss Prevention Therapy Shampoo Thinning Hair Treatment Organic Argan Oil & Biotin, 16 Fluid Ounce,/,17.99
+135,/,Natural & Organic Volumizing Shampoo 8oz Premium Sulfate Free Moisturizing Hair Shampoo for Luxurious, Healthier Hair With Argan Oil, Kiwi, Kukui, Moringa Seed & More for Thin, Frizzy, Dry Hair.,/,15.89
+136,/,Tresemme Keratin Smooth Infusing Shampoo And Conditioner, 25 Ounce (Shampoo+Conditioner Combo),/,11.95
+137,/,Garnier Hair Care Fructis Pure Clean Shampoo, 12.5 Fluid Ounce,/,3.42
+138,/,PUREOLOGY Hydrate Shampoo, 8.5 fl. oz.,/,28.0
+139,/,Head and Shoulders Classic Clean 2-in-1 Anti-Dandruff Shampoo and Conditioner 23.7 Fl Oz (Pack of 2),/,15.98
+140,/,Neutrogena Anti-Residue Shampoo, 6 Fl. Oz.,/,4.89
+141,/,Hair Loss Shampoo for Men & Women from Majestic Pure Offers Natural Ingredient Based Effective Solution, Add Volume and Strengthen Hair, Sulfate Free, 14 DHT Blockers, 16 fl oz,/,18.5
+142,/,Art Naturals Organic Moroccan Argan Oil Shampoo and Conditioner Set (2 x 16 Oz),/,26.12
+143,/,Art Naturals Organic Argan Oil Hair Loss Shampoo for Hair Regrowth 16 Oz,/,26.93
+144,/,Art Naturals Organic Moroccan Argan-Oil Shampoo,/,12.95
+145,/,Majestic Pure Argan Oil Shampoo, Offers Vitamin Enriched Gentle Hair Restoration Formula for Daily Use, Sulfate Free, Moroccan Oil & Potent Natural Ingredients, for Men and Women 16 fl. oz,/,13.95
+146,/,Pantene Pro-V Smooth and Sleek Shampoo, 25.4 Fluid Ounces (Pack of 2),/,13.99
+147,/,ArtNaturals Tea-Tree-Oil Shampoo and Conditioner Set,/,26.93
+148,/,OGX Shampoo Nourishing Coconut Milk, (1) 13 Ounce Bottle, Paraben Free, Sulfate Free, Sustainable Ingredients, Strengthens, Hydrates, Balances and Restores Elasticity,/,3.88
+149,/,ArtNaturals Purple Shampoo and Conditioner Set – (16 Fl Oz x 2) – Protects, Balances and Tones – Bleached, Color Treated, Silver and Blonde Hair,/,26.94
